@@ -2,7 +2,7 @@
 
 ## Step 1 - Putting the sheets together 
 
-1) In the folder called all_files, we can see the eaw files that were obtained by FOIA requests by our investigative reporter Andrew Brown. There are a total of 701 files.
+1) In the folder called `all_files`, we can see the eaw files that were obtained by FOIA requests by our investigative reporter Andrew Brown. There are a total of 701 files.
 
 2) The spreadsheets have the “Initial Material Inventory” tab. To make analysis easier, we wanted to combine all spreadsheets into one, based on the “Initial Material Inventory” tab. We selected a few columns of interest such as:
  - SITE ID
