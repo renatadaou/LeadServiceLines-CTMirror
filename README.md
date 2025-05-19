@@ -17,7 +17,7 @@
 
 3) I had to pay extra attention to empty rows under the column names: na_values=['#REF!', '#N/A', '#NAME?', '#DIV/0!', '#NULL!', '#NUM!', '#VALUE!', '#ERROR!']
    
-4) Jupyter notebook file ('lead-step1-allfiles.ipynb')
+4) Jupyter notebook file (`lead-step1-allfiles.ipynb`)
 - Reads Excel files from a specified folder.
 - Searches for sheets matching a given pattern (e.g., "Initial Material Inventory").
 - Tries to detect the header row dynamically (if not always the first row).
@@ -26,4 +26,4 @@
 - Cleans and filters the data (removes empty rows, renames columns, removes partial header rows, etc.).
 - Returns a cleaned, unified DataFrame.
 
-5) The outcome is a sheet called all_files_initial_material that has 889,624 rows
+5) The outcome is a sheet called `all_files_initial_material` that has 889,624 rows
