@@ -69,5 +69,7 @@
 5) Flags rows where SITE ID exists but there's no corresponding location, address, or town.
 
 6) Uses fuzzy/variant matching
+   
+8) This file is not used as much
 
 
