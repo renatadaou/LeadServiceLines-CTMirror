@@ -1,5 +1,7 @@
 # Lead Service Lines - CTMirror
 
+Note: Used ChatGPT and Claude to clean and improve code 
+
 ## Step 1 - Putting the sheets together 
 
 1) In the folder called `all_files`, we can see the eaw files that were obtained by FOIA requests by our investigative reporter Andrew Brown. There are a total of 701 files.
