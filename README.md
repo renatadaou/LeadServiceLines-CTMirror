@@ -1,4 +1,4 @@
-# LeadServiceLines-CTMirror
+# Lead Service Lines - CTMirror
 
 ## Step 1 - Putting the sheets together 
 
@@ -27,3 +27,35 @@
 - Returns a cleaned, unified DataFrame.
 
 5) The outcome is a sheet called `all_files_initial_material` that has 889,624 rows
+
+## Step 2 - Verifying that code worked
+
+1) Get random files to test and see if the outcome for those files only matched the outcome in `all_files_initial_material`
+- Test the code on the random files and then manually check if the outcome on the combined fiel is the same as the original file
+
+2) Random files, round 1 of testing: Passed 100%
+- CT0210023 LCRR SL Material Inventory State Review Checklist.xlsx
+ - Did not run - did not have an initial material page
+- CT0210023__LCRR_Inventory_Initial_09-10-24.xlsx
+- CT0235033_LCRR_Inventory_Initial 10 16 2024.xlsx
+- CT0240262_LCRR_Inventory_Initial_101824 .xlsx
+- CT0261081_LCRR_Inventory_Initial_10.16.24.xlsx
+- CT0780081_LCRR_Inventory_Initial_10.16.24.xlsx
+- CT0780121_LCRR_Inventory_Initial_10.16.24.xlsx
+- CT0960224_LCRR_Inventory_Initial 10 16 2024.xlsx
+- CT1680041_LCRR_Inventory_Initial_09-27-24.xlsx
+- CT1680071_LCRR_Inventory_Initial 10 15 2024.xlsx
+3) Random files, round 2 of testing, using the heaviest files: Passed 100%
+- 2024-10-15_CT1510011 Waterbury_LCRR_initial_material_inventory.xlsx
+- CT0150011_LCRR_Inventory_Initial_10.16.24.xlsx 
+ - Skipped two lines, but those two lines did not have any information in the desired column, so the code didn’t read them
+- CT0473011_LCRR_Inventory_Initial_10.16.24.xlsx
+- CT0580031_LCRR_Inventory_Initial 10 15 2024.xlsx
+- CT0608011_LCRR_Inventory_Initial_10.16.24.xlsx
+- CT0800011_LCRR_Inventory_Initial_10.15.24.xlsx
+- CT0880011_LCRR_Inventory_Initial_10.16.24.xlsx
+- CT0930011_LCRR_Inventory_Initial_10.16.24.xlsx
+- CT1090221_LCRR_Inventory_Initial_10-01-24.xlsx
+- CT1510011_LCRR_Inventory_Initial_10.15.24.xlsx
+
+
