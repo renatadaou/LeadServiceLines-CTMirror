@@ -72,6 +72,6 @@ Note: Used ChatGPT and Claude to clean and improve code
 
 6) Uses fuzzy/variant matching
    
-8) This file is not used as much
+8) This file is not used as much. Outcome in the `updated_material_inventory` file with 525,508 rows
 
 
