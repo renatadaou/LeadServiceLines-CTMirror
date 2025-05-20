@@ -35,7 +35,7 @@
 
 2) Random files, round 1 of testing: Passed 100%
 - CT0210023 LCRR SL Material Inventory State Review Checklist.xlsx
- - Did not run - did not have an initial material page
+      - Did not run - did not have an initial material page
 - CT0210023__LCRR_Inventory_Initial_09-10-24.xlsx
 - CT0235033_LCRR_Inventory_Initial 10 16 2024.xlsx
 - CT0240262_LCRR_Inventory_Initial_101824 .xlsx
@@ -48,7 +48,7 @@
 3) Random files, round 2 of testing, using the heaviest files: Passed 100%
 - 2024-10-15_CT1510011 Waterbury_LCRR_initial_material_inventory.xlsx
 - CT0150011_LCRR_Inventory_Initial_10.16.24.xlsx 
- - Skipped two lines, but those two lines did not have any information in the desired column, so the code didn’t read them
+      - Skipped two lines, but those two lines did not have any information in the desired column, so the code didn’t read them
 - CT0473011_LCRR_Inventory_Initial_10.16.24.xlsx
 - CT0580031_LCRR_Inventory_Initial 10 15 2024.xlsx
 - CT0608011_LCRR_Inventory_Initial_10.16.24.xlsx
