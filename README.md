@@ -56,4 +56,18 @@
 - CT1090221_LCRR_Inventory_Initial_10-01-24.xlsx
 - CT1510011_LCRR_Inventory_Initial_10.15.24.xlsx
 
+## Step 3 - Doing the same process for Updated Material Inventory
+ 
+1) I did the same thing as step 1, just with the “Updated Material Inventory” tab. Some water systems updated the material of their water lines after the first inspection. Some changed, some didn’t.
+
+2) The code is more complicated for this tab, because the content in the rows are not as standardized and not following the same patterns across spreadsheets. 
+
+3) One of the code updates is that it detects common Excel error strings (#REF!, #VALUE!, etc.). Instead of deleting these rows, it blanks out the SITE ID value and adds a flag column to mark the issue.
+
+4) It also drops rows with SITE ID = 0 and all other columns empty. This is the only place where rows are actually removed.Only deletes rows where SITE ID is zero, and every other field is empty.
+
+5) Flags rows where SITE ID exists but there's no corresponding location, address, or town.
+
+6) Uses fuzzy/variant matching
+
 
