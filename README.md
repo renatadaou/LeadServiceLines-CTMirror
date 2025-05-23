@@ -75,6 +75,29 @@ Note: Used ChatGPT and Claude to clean and improve code
 8) This file is not used as much. Outcome in the `updated_material_inventory` file with 525,508 rows
 
 ## Step 4 - Adding PSWID
+
+1) Used this list of the 60 biggest systems to match on PSWID: [Lead lines matched sheets checklist](https://docs.google.com/spreadsheets/d/1OGe2SZkxhGrTAhYyOh-n-zhLr_uRAEcbY7qQjuRBsyA/edit?gid=0#gid=0)
+   
+2) The list, on excel called `PWS_Community`, lists the water systems that serve most of the Connecticut population.
+
+3) I also filtered the `PWS_Community` file to filter for the first 60 rows to make the analysis easier, since these 60 water lines have more than 1000 service connections each and they serve the majority of the population in Connecticut.
+
+4) For the first part of the code, I extract PSWIDs in the SOURCE FILE column of df_material from the “all_initial_material” sheet.
+
+5) Then I apply re.search(r'CT\d{7}', source_str) to pull out any substring like CT1234567, which results in a new column extracted_pswid containing either the matched ID or None
+
+6) I look at the extracted_pswid values and test each against pswid_set, which shows that it is True when the extracted PSWID exists in the master list and False otherwise.
+
+7) For the second part I filtered so it shows only the rows with matching ids
+
+8) For the third part, I merge the files (`matched_pswids_only` and `PWS_Community`) on PSWID to be able to get the system names on the sheet. 
+
+A few notes on some of the sheets:
+- `CT0070011` - Not on all_files_initial_material spreadsheet, could not find even the original spreadsheet in the folder
+- `CT1110011` - Not on all_files_initial_material spreadsheet. Could find the original file in the folder but I can’t open it. “The workbook cannot be opened or repaired by Microsoft Excel because it is corrupt.”
+- `CT0280011` - Not on all_files_initial_material spreadsheet. Could find the file but it does not have an initial material inventory page. Apparently they made their own sheet formatting that is very different from the others, and all the information on lead is in the detailed inventory tab.
+- `CT1400011` - Not on all_files_initial_material spreadsheet, could not find even the original spreadsheet in the folder
+
 ## Step 5 - Some of the sheets have different names, but have duplicate values
 ## Step 6 -  Mapping the service lines
 
