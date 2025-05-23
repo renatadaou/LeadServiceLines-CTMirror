@@ -74,4 +74,10 @@ Note: Used ChatGPT and Claude to clean and improve code
    
 8) This file is not used as much. Outcome in the `updated_material_inventory` file with 525,508 rows
 
+## Step 4 - Adding PSWID
+## Step 5 - Some of the sheets have different names, but have duplicate values
+## Step 6 -  Mapping the service lines
+
+
+
 
