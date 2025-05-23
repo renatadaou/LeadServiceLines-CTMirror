@@ -66,7 +66,7 @@ Note: Used ChatGPT and Claude to clean and improve code
 
 3) One of the code updates is that it detects common Excel error strings (#REF!, #VALUE!, etc.). Instead of deleting these rows, it blanks out the SITE ID value and adds a flag column to mark the issue.
 
-4) It also drops rows with SITE ID = 0 and all other columns empty. This is the only place where rows are actually removed.Only deletes rows where SITE ID is zero, and every other field is empty.
+4) It also drops rows with SITE ID = 0 and all other columns empty. This is the only place where rows are actually removed. Only deletes rows where SITE ID is zero, and every other field is empty.
 
 5) Flags rows where SITE ID exists but there's no corresponding location, address, or town.
 
