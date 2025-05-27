@@ -99,6 +99,15 @@ A few notes on some of the sheets:
 - `CT1400011` - Not on all_files_initial_material spreadsheet, could not find even the original spreadsheet in the folder
 
 ## Step 5 - Some of the sheets have different names, but have duplicate values
+
+1) Some of the water systems have uploaded the same spreadsheet more than once with a slightly different title for the sheets. To make sure that we have the information correct, I removed the duplicates. 
+
+2) The notebook creates a SITE_ADDRESS_KEY to pull out all  rows that share a key with at least one other row.
+
+3) If there are no duplicates, it just writes the original DataFrame back out as the “deduplicated” file and exits.
+
+4) If there are duplicates, it builds a small summary table (metrics & values) and writes it to the “Summary” sheet. The code marks each original row as duplicate vs. unique and keeps all unique rows plus the first occurrence from each duplicate group; writes that combined set to the deduplicated-file.
+   
 ## Step 6 -  Mapping the service lines
 
 
