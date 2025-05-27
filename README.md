@@ -110,6 +110,19 @@ A few notes on some of the sheets:
    
 ## Step 6 -  Mapping the service lines
 
+Aquarion Water Co of CT — Main System
+
+Waterbury Water Department
+
+Windham Water Works
+
+New London Dept. of Public Utilities
+
+Aquarion Water Co of CT — Greenwich
+
+Middletown Water Department
+
+Meriden Water Division
 
 
 
