@@ -1,0 +1,953 @@
+SITE ID,LOCATION IDENTIFIER,STREET ADDRESS,TOWN,merged address,STATE,ENTIRE SERVICE LINE MATERIAL CLASSIFICATION,BUILDING TYPE,PWSID,SYSTEM NAME,lat,long
+102148,020001860079,120 Easton Ave,Waterbury,120 Easton Ave Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5661875,-73.0303237
+102618,020002060033,107 Platt St,Waterbury,107 Platt St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5676527,-73.0308175
+103178,020002110064,1089 North Main St,Waterbury,1089 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.56661,-73.0278976
+103188,020002110066,1063 North Main St,Waterbury,1063 North Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5663945,-73.0282366
+103208,020002110068,1043 North Main St,Waterbury,1043 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5663946,-73.0287598
+103218,020002110069,1027 North Main St,Waterbury,1027 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5663131,-73.0289685
+103368,020002120057,212 Easton Ave,Waterbury,212 Easton Ave Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5677204,-73.0279703
+103428,020002130056,213 Easton Ave,Waterbury,213 Easton Ave Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5680283,-73.0281098
+103478,020101990031,1208 North Main St,Waterbury,1208 North Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5677277,-73.0262747
+103488,020101990032,1214 North Main St,Waterbury,1214 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5675822,-73.0261935
+103518,020101990035,1248 North Main St,Waterbury,1248 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5680113,-73.0260332
+103528,020101990036,1254 North Main St,Waterbury,1254 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5681426,-73.0259676
+103548,020101990038,1298 North Main St,Waterbury,1298 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5687033,-73.0257137
+103558,020101990039,1306 North Main St,Waterbury,1306 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5688313,-73.0257001
+103588,020101990300,1184 North Main St,Waterbury,1184 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5671821,-73.0262846
+103608,020101990361,1268 North Main St,Waterbury,1268 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5682879,-73.0259085
+103818,020102120021,1181 North Main St,Waterbury,1181 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.567304,-73.026987
+103958,020102130013,1239 North Main St,Waterbury,1239 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5681637,-73.0264308
+109878,021205240020,148 Revere St Ext,Waterbury,148 Revere St Ext Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+109898,021205240022,112 Revere St Ext,Waterbury,112 Revere St Ext Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+109998,021205250018,147 Revere St Ext,Waterbury,147 Revere St Ext Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+116578,021801660158,810 North Main St,Waterbury,810 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5638124,-73.0312439
+116588,021801660159,790 North Main St,Waterbury,790 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5636086,-73.0313504
+116598,021801660160,782 North Main St,Waterbury,782 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5636457,-73.0316053
+116738,021801790045,739 North Main St,Waterbury,739 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5635188,-73.0325454
+11678,006002390015,2846 North Main St,Waterbury,2846 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5937308,-73.0262739
+11688,006002390016,2852 North Main St,Waterbury,2852 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5939281,-73.0263487
+116908,021801800151,858 North Main St,Waterbury,858 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5642064,-73.0304958
+117028,021801840060,767 North Main St,Waterbury,767 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5638678,-73.0319883
+117048,021801840062,799 North Main St,Waterbury,799 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5640345,-73.0315631
+117068,021801840064,817 North Main St,Waterbury,817 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5641488,-73.0312554
+117248,021801850082,839 North Main St,Waterbury,839 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5643258,-73.0310023
+117278,021801850085,875 North Main St,Waterbury,875 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5646503,-73.0306385
+117288,021801850086,885 North Main St,Waterbury,885 North Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5649734,-73.0312312
+117308,021801850088,907 North Main St,Waterbury,907 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5649784,-73.0302977
+117388,021801860096,116 Easton Ave,Waterbury,116 Easton Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.566089,-73.0304368
+117468,021801860104,963 North Main St,Waterbury,963 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5656537,-73.0298368
+117488,021801860106,975 North Main St,Waterbury,975 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5657947,-73.0297494
+117498,021801860107,981 North Main St,Waterbury,981 North Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5656136,-73.0296531
+117868,021801890034,109 Easton Ave,Waterbury,109 Easton Ave Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5662117,-73.0309102
+117918,021801900121,958 North Main St,Waterbury,958 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5654049,-73.0294173
+117928,021801900122,954 North Main St,Waterbury,954 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5652544,-73.0293969
+117958,021801900125,920 North Main St,Waterbury,920 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5649234,-73.029771
+117968,021801900126,910 North Main St,Waterbury,910 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5647983,-73.0298243
+117978,021801900127,898 North Main St,Waterbury,898 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5647018,-73.0300032
+118118,021801910112,1002 North Main St,Waterbury,1002 North Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5660287,-73.0288992
+12188,006002540004,2855 North Main St,Waterbury,2855 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5943951,-73.0266255
+12198,006002540005,2861 North Main St,Waterbury,2861 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5941934,-73.026765
+12208,006002540006,2869 North Main St,Waterbury,2869 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5944043,-73.0267676
+12218,006002540007,2877 North Main St,Waterbury,2877 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5946009,-73.026727
+12228,006002540008,2881 North Main St,Waterbury,2881 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5948017,-73.0267737
+12308,006002540122,2917 North Main St,Waterbury,2917 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5957056,-73.0267256
+12318,006002540123,2925 North Main St,Waterbury,2925 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5958594,-73.026832
+124478,023105260049,131 Revere St Ext,Waterbury,131 Revere St Ext Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+124518,023105260053,111 Revere St,Waterbury,111 Revere St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.563233,-73.0639648
+129648,023601651251,549 North Main St,Waterbury,549 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5611576,-73.0341378
+131008,023601760172,32 Hawkins St,Waterbury,32 Hawkins St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5611281,-73.0371723
+131028,023601760174,10 - 12 Pearl St,Waterbury,10 - 12 Pearl St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5636811,-73.0380788
+131048,023601760176,18 Pearl St,Waterbury,18 Pearl St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.561526,-73.0373271
+131058,023601760177,22 Pearl St,Waterbury,22 Pearl St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5616429,-73.0373419
+131068,023601760178,28 Pearl St,Waterbury,28 Pearl St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.561753,-73.0373475
+131258,023601770171,28 Hawkins St,Waterbury,28 Hawkins St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.561127,-73.0369608
+140338,025200240002,618 West Main St,Waterbury,618 West Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5581178,-73.0526501
+140368,027400070001,21 West Main St,Waterbury,21 West Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5556789,-73.041326
+140518,025200670009,640 West Main St,Waterbury,640 West Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5582869,-73.0519184
+141078,025300540073,380 West Main St,Waterbury,380 West Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5581432,-73.0470791
+141118,025300540077,428 West Main St,Waterbury,428 West Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5583991,-73.0481385
+141498,025300560096,478 West Main St,Waterbury,478 West Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.558401,-73.0490392
+141508,025300560097,466 West Main St,Waterbury,466 West Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.558389,-73.0488889
+141518,025300560098,460 West Main St,Waterbury,460 West Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5584437,-73.0486783
+141528,025300560099,450 West Main St,Waterbury,450 West Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5583019,-73.0485734
+141588,025300570094,496 West Main St,Waterbury,496 West Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5585048,-73.049446
+141598,025300570095,490 West Main St,Waterbury,490 West Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5583202,-73.049362
+142298,025400020531,171 North Main St,Waterbury,171 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5579999,-73.0394002
+143738,025501640079,24 Adams St,Waterbury,24 Adams St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5612864,-73.0369868
+143928,025501660147,474 North Main St,Waterbury,474 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5601977,-73.0344936
+143948,025501660149,496 North Main St,Waterbury,496 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5604703,-73.0343647
+146358,025705530132,71 Oak St,Waterbury,71 Oak St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5593644,-73.0237234
+147778,025705790133,72 Oak St,Waterbury,72 Oak St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5593305,-73.0240877
+147788,025705790134,68 Oak St,Waterbury,68 Oak St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5594313,-73.0241418
+148248,025705790180,76 Oak St,Waterbury,76 Oak St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5592214,-73.0240571
+148258,025705790181,80 Oak St,Waterbury,80 Oak St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5590928,-73.0240329
+148268,025705800204,106 Oak St,Waterbury,106 Oak St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5584539,-73.0238586
+148278,025705800205,104 Oak St,Waterbury,104 Oak St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.558495,-73.0238687
+148288,025705800206,102 Oak St,Waterbury,102 Oak St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5585346,-73.023892
+148308,025705800208,98 Oak St,Waterbury,98 Oak St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5586242,-73.0239009
+148338,025705800211,92 Oak St,Waterbury,92 Oak St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5587523,-73.0239445
+148348,025705800212,90 Oak St,Waterbury,90 Oak St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5587956,-73.0239514
+148358,025705800213,88 Oak St,Waterbury,88 Oak St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.558839,-73.023964
+148368,025705800214,86 Oak St,Waterbury,86 Oak St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5588826,-73.0239764
+149048,025705830280,121 Oak St,Waterbury,121 Oak St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5580358,-73.0232707
+149058,025705830281,113 Oak St,Waterbury,113 Oak St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5582037,-73.0233183
+149068,025705830282,101 Oak St,Waterbury,101 Oak St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5585365,-73.023407
+149078,025705830283,95 Oak St,Waterbury,95 Oak St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5586595,-73.0234407
+149138,025705830289,152 Beech St,Waterbury,152 Beech St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5581038,-73.0225714
+149158,025705832891,50 Ash St,Waterbury,50 Ash St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.558292,-73.0227311
+149968,025805840001,157 Beech St,Waterbury,157 Beech St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5580362,-73.0220798
+149978,025805840002,151 Beech St,Waterbury,151 Beech St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5582046,-73.0221444
+149988,025805840003,139 Beech St,Waterbury,139 Beech St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5583909,-73.0221678
+155978,027100250088,990 West Main St,Waterbury,990 West Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5578017,-73.0572032
+156128,027100260017,1050 West Main St,Waterbury,1050 West Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5574134,-73.0599512
+157128,027200220023,649 West Main St,Waterbury,649 West Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5575943,-73.0510131
+157168,027200240012,718 West Main St,Waterbury,718 West Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5578203,-73.0534978
+157308,027300170038,283 West Main St,Waterbury,283 West Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5570516,-73.0459269
+157398,027300180031,389 Meadow St,Waterbury,389 Meadow St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5554372,-73.0472535
+157788,027400020025,95 North Main St,Waterbury,95 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5566874,-73.0403808
+157818,027400020029,161 North Main St,Waterbury,161 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5578958,-73.0395559
+157838,027400030010,130 West Main St,Waterbury,130 West Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5573095,-73.0426735
+158078,027400070061,41 West Main St,Waterbury,41 West Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5558108,-73.0419433
+158358,027400140048,26 North Main St,Waterbury,26 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5562791,-73.0403726
+158488,027400150041,99 East Main St,Waterbury,99 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.555915,-73.0390083
+161578,027700960165,224 Oak St,Waterbury,224 Oak St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5553168,-73.0241985
+161628,027700960170,220 Oak St,Waterbury,220 Oak St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5551069,-73.0240559
+161658,027700970172,213 Oak St,Waterbury,213 Oak St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5554921,-73.0236975
+161668,027700970173,209 Oak St,Waterbury,209 Oak St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5556009,-73.0236532
+16208,006902390003,2840 North Main St,Waterbury,2840 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5935651,-73.0263702
+16218,006902390004,2834 North Main St,Waterbury,2834 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5933985,-73.0264249
+16228,006902390005,2828 North Main St,Waterbury,2828 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5932276,-73.0264744
+16238,006902390006,2822 North Main St,Waterbury,2822 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5931027,-73.02661
+162428,027705820124,190 Oak St,Waterbury,190 Oak St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5563482,-73.024001
+162438,027705820125,178 Oak St,Waterbury,178 Oak St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5564583,-73.023984
+162448,027705820126,170 Oak St,Waterbury,170 Oak St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5565926,-73.0239201
+162458,027705820127,166 Oak St,Waterbury,166 Oak St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5567464,-73.0239025
+162478,027705820129,158 Oak St,Waterbury,158 Oak St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5570055,-73.0238274
+162488,027705820130,154 Oak St,Waterbury,154 Oak St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5571313,-73.0238003
+16248,006902390007,2812 North Main St,Waterbury,2812 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5928458,-73.0265581
+162498,027705820131,150 Oak St,Waterbury,150 Oak St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5573084,-73.0238396
+162508,027705820132,144 Oak St,Waterbury,144 Oak St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.557422,-73.0236978
+162518,027705820133,138 Oak St,Waterbury,138 Oak St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5576391,-73.0237013
+162538,027705820135,122 Oak St,Waterbury,122 Oak St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5579302,-73.0237344
+162718,027705830138,143 Oak St,Waterbury,143 Oak St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5574798,-73.0232389
+162738,027705830140,151 Oak St,Waterbury,151 Oak St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5572052,-73.0232821
+162748,027705830141,155 Oak St,Waterbury,155 Oak St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.557048,-73.0231891
+162758,027705830142,161 Oak St,Waterbury,161 Oak St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5569247,-73.0233771
+162788,027705830146,172 Beech St,Waterbury,172 Beech St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5575761,-73.0224088
+16278,006902530001,2817 North Main St,Waterbury,2817 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5931818,-73.0277085
+162798,027705830147,178 Beech St,Waterbury,178 Beech St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5572543,-73.0223184
+162808,027705830148,184 Beech St,Waterbury,184 Beech St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.55758,-73.0223564
+162858,027705831451,156 Beech St,Waterbury,156 Beech St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.557924,-73.0225487
+163408,027706030162,191 Oak St,Waterbury,191 Oak St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5561288,-73.0235217
+163568,027805840014,185 Beech St,Waterbury,185 Beech St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5572424,-73.0219193
+163578,027805840015,175 Beech St,Waterbury,175 Beech St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5575538,-73.0219972
+163588,027805840016,163 Beech St,Waterbury,163 Beech St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5578446,-73.0221001
+17478,007509850017,17 Ashford St,Waterbury,17 Ashford St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5896492,-73.0459792
+17488,007509850018,19 Ashford St,Waterbury,19 Ashford St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5896452,-73.0457519
+175198,029000420092,1201 West Main St,Waterbury,1201 West Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5529311,-73.0625623
+175208,029000420093,1243 West Main St,Waterbury,1243 West Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5524518,-73.0633906
+175238,029000430076,1157 West Main St,Waterbury,1157 West Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5541741,-73.0613612
+175248,029000430077,1163 West Main St,Waterbury,1163 West Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5540232,-73.0614445
+175258,029000430078,1167 West Main St,Waterbury,1167 West Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.553947,-73.0615579
+175268,029000430079,1171 West Main St,Waterbury,1171 West Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5538493,-73.0616573
+17548,007509850024,35 Harvard St,Waterbury,35 Harvard St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5892253,-73.0455342
+177148,029400120103,115 South Main St,Waterbury,115 South Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5543861,-73.0401083
+177258,039203000001,952 South Main St,Waterbury,952 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5434841,-73.0380294
+178018,029500130003,122 East Main St,Waterbury,122 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5550764,-73.0386561
+17808,007609850003,67 Harvard St,Waterbury,67 Harvard St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5890435,-73.0443545
+178118,029500710068,351 East Main St,Waterbury,351 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5548562,-73.0345821
+178128,029500710069,337 East Main St,Waterbury,337 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5547988,-73.0348951
+178138,029500710070,325 East Main St,Waterbury,325 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5547647,-73.0351032
+178148,029500710071,309 East Main St,Waterbury,309 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5547627,-73.0354443
+178198,029500720062,407 East Main St,Waterbury,407 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5548642,-73.0336064
+178208,029500720063,391 East Main St,Waterbury,391 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5546897,-73.0338621
+178218,029500720064,379 East Main St,Waterbury,379 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.554693,-73.0340776
+178278,029500730042,290 East Main St,Waterbury,290 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5542733,-73.0358247
+178328,029500730421,278 East Main St,Waterbury,278 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5544908,-73.0361566
+178748,029500790601,402 East Main St,Waterbury,402 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5542609,-73.0338071
+178768,029600720001,421 East Main St,Waterbury,421 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5547533,-73.0332823
+178788,029600720003,449 East Main St,Waterbury,449 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5546146,-73.0328303
+178938,029600890019,523 East Main St,Waterbury,523 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5542643,-73.03187
+179178,029600900039,589 East Main St,Waterbury,589 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5541841,-73.031243
+179188,029600900040,593 East Main St,Waterbury,593 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5541613,-73.0302592
+179208,029600900042,611 East Main St,Waterbury,611 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5542315,-73.0298691
+179418,029600910061,675 East Main St,Waterbury,675 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5540761,-73.0287526
+179428,029600910062,687 East Main St,Waterbury,687 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5539471,-73.0286131
+179438,029600910063,693 East Main St,Waterbury,693 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5539676,-73.0284516
+179738,029600930093,666 East Main St,Waterbury,666 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.553599,-73.0289902
+179748,029600930095,648 East Main St,Waterbury,648 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5537621,-73.0289722
+179758,029600930096,638 East Main St,Waterbury,638 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5537322,-73.0295817
+179778,029600930098,574 East Main St,Waterbury,574 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5535647,-73.0302009
+179788,029600930951,642 East Main St,Waterbury,642 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5534527,-73.0295429
+180538,029700810141,334 Oak St,Waterbury,334 Oak St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5527955,-73.0225817
+180548,029700810142,340 Oak St,Waterbury,340 Oak St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5526604,-73.0225384
+180638,029700930032,758 East Main St,Waterbury,758 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5533285,-73.027631
+180648,029700930033,770 East Main St,Waterbury,770 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5531016,-73.0274133
+180668,029700930035,804 East Main St,Waterbury,804 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5528158,-73.0269428
+180678,029700930036,810 East Main St,Waterbury,810 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.552736,-73.0268015
+180698,029700930351,786 East Main St,Waterbury,786 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5528966,-73.0270628
+180708,029700930352,794 East Main St,Waterbury,794 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5440354,-72.9895415
+180918,029700950118,300 Oak St,Waterbury,300 Oak St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5537147,-73.0230651
+180938,029700950120,304 Oak St,Waterbury,304 Oak St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5535861,-73.0230242
+181058,029700960089,228 Oak St,Waterbury,228 Oak St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5551485,-73.0241754
+181068,029700960090,232 Oak St,Waterbury,232 Oak St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5550453,-73.0242077
+181128,029700960931,248 Oak St,Waterbury,248 Oak St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5546225,-73.0242602
+181138,029700970095,225 Oak St,Waterbury,225 Oak St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.555191,-73.0237128
+181148,029700970096,235 Oak St,Waterbury,235 Oak St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5549394,-73.0237463
+181158,029700970097,245 Oak St,Waterbury,245 Oak St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5546474,-73.0237905
+181168,029700970098,255 Oak St,Waterbury,255 Oak St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5545012,-73.023755
+181178,029700970099,265 Oak St,Waterbury,265 Oak St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5544148,-73.0236046
+181188,029700970100,279 Oak St,Waterbury,279 Oak St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5543222,-73.0232684
+181198,029700970101,273 Oak St,Waterbury,273 Oak St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5543349,-73.0234584
+181248,029700970971,241 Oak St,Waterbury,241 Oak St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5547771,-73.0237479
+181318,029700980109,291 Oak St,Waterbury,291 Oak St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5540149,-73.0228497
+181328,029700980110,299 Oak St,Waterbury,299 Oak St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5538515,-73.0227324
+181348,029700980112,317 Oak St,Waterbury,317 Oak St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5533954,-73.0224992
+181368,029700980114,329 Oak St,Waterbury,329 Oak St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5531057,-73.0223223
+181378,029700980115,333 Oak St,Waterbury,333 Oak St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5529269,-73.0222457
+181408,029700981081,4 South Oak St,Waterbury,4 South Oak St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5542683,-73.0228927
+181428,029700981101,301 Oak St,Waterbury,301 Oak St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5537209,-73.0224856
+181448,029800980002,339 Oak St,Waterbury,339 Oak St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5527759,-73.0221849
+186778,030203710030,26 Mill Plain Ave,Waterbury,26 Mill Plain Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5534238,-72.9992898
+190178,030504010068,205 Celia Dr,Waterbury,205 Celia Dr Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5559611,-72.9828913
+190188,030504010069,215 Celia Dr,Waterbury,215 Celia Dr Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5561389,-72.9828221
+190198,030504010070,223 Celia Dr,Waterbury,223 Celia Dr Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5562868,-72.9830605
+19228,007802410070,2719 North Main St,Waterbury,2719 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5904779,-73.0280514
+19238,007802410071,2731 North Main St,Waterbury,2731 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5907571,-73.0280183
+194508,031400650008,1460 West Main St,Waterbury,1460 West Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5495353,-73.0702453
+194908,031400650612,26 Andrew Ln,Waterbury,26 Andrew Ln Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5518155,-73.0685532
+194918,031400650621,28 Andrew Ln,Waterbury,28 Andrew Ln Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.55161,-73.0684099
+195488,031500440261,26 Quinsigamond Ave,Waterbury,26 Quinsigamond Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5509659,-73.0621676
+195648,031500450331,25 Quinsigamond Ave,Waterbury,25 Quinsigamond Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.551056,-73.0617466
+195718,031500461312,1312 West Main St,Waterbury,1312 West Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5514509,-73.0657211
+195758,031500460012,1374 West Main St,Waterbury,1374 West Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5501238,-73.0666182
+195768,031500460013,1376 West Main St,Waterbury,1376 West Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5497081,-73.0667715
+19668,007802490069,2635 North Main St,Waterbury,2635 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5883126,-73.028697
+197188,032200810042,362 Oak St,Waterbury,362 Oak St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.552112,-73.0224077
+197198,032200810043,348 Oak St,Waterbury,348 Oak St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5523467,-73.0223526
+197278,032200930003,1108 East Main St,Waterbury,1108 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5498893,-73.0230688
+197298,032200930005,1130 East Main St,Waterbury,1130 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.54968,-73.0227514
+197318,032200940008,1119 East Main St,Waterbury,1119 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5500089,-73.0226367
+197328,032200940009,1109 East Main St,Waterbury,1109 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5501071,-73.0227773
+197338,032200940010,1101 East Main St,Waterbury,1101 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5501796,-73.0228897
+197358,032200940012,1083 East Main St,Waterbury,1083 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5503341,-73.0230765
+197368,032200940013,1073 East Main St,Waterbury,1073 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5502071,-73.0230987
+197378,032200940014,1065 East Main St,Waterbury,1065 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5505125,-73.0233659
+197388,032200940015,1057 East Main St,Waterbury,1057 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5508837,-73.0235635
+197398,032200940017,993 East Main St,Waterbury,993 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5513141,-73.0241225
+197408,032200940018,981 East Main St,Waterbury,981 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5514622,-73.024285
+197418,032200940019,961 East Main St,Waterbury,961 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5516593,-73.0245555
+197428,032200940020,951 East Main St,Waterbury,951 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5517446,-73.0246829
+197438,032200940021,935 East Main St,Waterbury,935 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5519161,-73.0248822
+197448,032200940022,921 East Main St,Waterbury,921 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5520182,-73.0250539
+197468,032200940024,891 East Main St,Waterbury,891 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5522366,-73.0254754
+198288,032300980004,359 Oak St,Waterbury,359 Oak St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5523149,-73.0218967
+198298,032300980005,371 Oak St,Waterbury,371 Oak St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.552023,-73.0217228
+198488,032300980051,365 Oak St,Waterbury,365 Oak St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5521723,-73.0218146
+207518,033900460007,1392 West Main St,Waterbury,1392 West Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5492997,-73.0669445
+207528,033900460008,1404 West Main St,Waterbury,1404 West Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5489809,-73.0670788
+211098,034502790002,478 South Main St,Waterbury,478 South Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5493323,-73.0388247
+211108,034502790003,490 South Main St,Waterbury,490 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5491443,-73.0391043
+211138,034502790011,472 South Main St,Waterbury,472 South Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5494164,-73.0388651
+212228,034502930016,653 South Main St,Waterbury,653 South Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5470836,-73.0378696
+213688,034800940008,1241 East Main St,Waterbury,1241 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5490187,-73.0209205
+213708,034800940010,1255 East Main St,Waterbury,1255 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5488839,-73.0206545
+213848,034800990056,1260 East Main St,Waterbury,1260 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5485881,-73.0209185
+213858,034800990057,1268 East Main St,Waterbury,1268 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5485094,-73.02079
+213868,034800990058,1278 East Main St,Waterbury,1278 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5484321,-73.0206675
+213878,034800990059,1286 East Main St,Waterbury,1286 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5483602,-73.0205345
+213898,034800990061,1308 East Main St,Waterbury,1308 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5482026,-73.0202809
+213918,034800990541,1250 East Main St,Waterbury,1250 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.548642,-73.0210614
+213998,034801010023,1295 East Main St,Waterbury,1295 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5485892,-73.0200704
+214008,034801010024,1305 East Main St,Waterbury,1305 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5484396,-73.0200129
+214058,034801010030,1417 East Main St,Waterbury,1417 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5479245,-73.0193499
+214098,034801010241,1309 East Main St,Waterbury,1309 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5483773,-73.0198807
+215318,034903500051,67 Woodward Ave,Waterbury,67 Woodward Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5482221,-73.0130944
+215328,034903500052,61 Woodward Ave,Waterbury,61 Woodward Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5483106,-73.0132375
+215338,034903500053,47 Woodward Ave,Waterbury,47 Woodward Ave Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5484958,-73.0134235
+215358,034903500055,35 Woodward Ave,Waterbury,35 Woodward Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5486558,-73.0137534
+215368,034903500056,29 Woodward Ave,Waterbury,29 Woodward Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5487297,-73.0138512
+215378,034903500057,23 Woodward Ave,Waterbury,23 Woodward Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5488094,-73.0140141
+215488,034903500068,48 Hungerford Ave,Waterbury,48 Hungerford Ave Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5487575,-73.0130344
+215498,034903500069,52 Hungerford Ave,Waterbury,52 Hungerford Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5486101,-73.013071
+215508,034903500070,60 Hungerford Ave,Waterbury,60 Hungerford Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5485125,-73.0128303
+215528,034903500072,79 Woodward Ave,Waterbury,79 Woodward Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5480248,-73.012864
+215558,034903500531,55 Woodward Ave,Waterbury,55 Woodward Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.548396,-73.0133486
+215578,034903500671,34 Hungerford Ave,Waterbury,34 Hungerford Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5490375,-73.0132175
+215658,034903510102,47 Hungerford Ave,Waterbury,47 Hungerford Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5489193,-73.012575
+215668,034903510103,41 Hungerford Ave,Waterbury,41 Hungerford Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5490371,-73.0126299
+215678,034903510104,33 Hungerford Ave,Waterbury,33 Hungerford Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.549153,-73.0127286
+220338,035301430047,151 Midland Rd,Waterbury,151 Midland Rd Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5485975,-72.9898579
+220398,035301430472,159 Midland Rd,Waterbury,159 Midland Rd Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5488762,-72.9898984
+221318,035304590491,160 Midland Rd,Waterbury,160 Midland Rd Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5489413,-72.9893725
+221328,035304590492,152 Midland Rd,Waterbury,152 Midland Rd Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5486744,-72.9892724
+233188,036902930005,685 South Main St,Waterbury,685 South Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5465039,-73.0377031
+233198,036902930006,701 South Main St,Waterbury,701 South Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5463723,-73.0376188
+233218,036902930008,725 South Main St,Waterbury,725 South Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5460677,-73.037592
+234658,037201020004,1485 East Main St,Waterbury,1485 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5468903,-73.0171972
+234798,037301050006,1615 East Main St,Waterbury,1615 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5464462,-73.0153482
+234808,037301050007,1623 East Main St,Waterbury,1623 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5463971,-73.0151731
+234818,037301050008,1631 East Main St,Waterbury,1631 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5463368,-73.0150137
+234918,037301060018,1649 East Main St,Waterbury,1649 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5462929,-73.0146304
+234928,037301060019,1663 East Main St,Waterbury,1663 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5463372,-73.0143976
+235038,037301060030,1705 East Main St,Waterbury,1705 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5462158,-73.0136007
+235258,037301070048,1761 East Main St,Waterbury,1761 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5456879,-73.012876
+235268,037301070049,1765 East Main St,Waterbury,1765 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5456416,-73.0127185
+235288,037301070051,1785 East Main St,Waterbury,1785 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.545485,-73.012402
+235298,037301070052,1795 East Main St,Waterbury,1795 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5454246,-73.0122696
+235528,037301080077,1833 East Main St,Waterbury,1833 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5451369,-73.0115591
+235538,037301080078,1853 East Main St,Waterbury,1853 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5449855,-73.0113429
+235548,037301080079,1863 East Main St,Waterbury,1863 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5449182,-73.0111759
+235658,037301090116,1716 East Main St,Waterbury,1716 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5456262,-73.0138215
+235678,037301090118,1650 East Main St,Waterbury,1650 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5459079,-73.01481
+235778,037301091171,1714 East Main St,Waterbury,1714 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5456849,-73.0139707
+235798,037201040003,0 Idylwood Ave Sprpl,Waterbury,0 Idylwood Ave Sprpl Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,,
+235838,037301110082,1880 East Main St,Waterbury,1880 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5444199,-73.011173
+236228,037401080035,1893 East Main St,Waterbury,1893 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5447342,-73.0107169
+236238,037401080036,1881 East Main St,Waterbury,1881 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5447734,-73.0108866
+236248,037401080037,1869 East Main St,Waterbury,1869 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5448503,-73.0110451
+236258,037401110038,1892 East Main St,Waterbury,1892 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5443667,-73.01104049999998
+238088,037501340101,2271 East Main St,Waterbury,2271 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.544295,-73.0041744
+238258,037501341011,2273 East Main St,Waterbury,2273 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5442369,-73.003841
+238598,037601340029,33 Pleasant View Ave,Waterbury,33 Pleasant View Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+239358,037701430078,2901 East Main St,Waterbury,2901 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5443607,-72.9893397
+239368,037701430079,2909 East Main St,Waterbury,2909 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.544523,-72.9892494
+239508,037701450002,32 Pleasant View Ave,Waterbury,32 Pleasant View Ave Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,,
+240458,037801430032,2929 East Main St,Waterbury,2929 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5447239,-72.9887588
+240548,037801490021,270 Decicco Rd,Waterbury,270 Decicco Rd Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5463529,-72.9849653
+240588,037801490022,282 Decicco Rd,Waterbury,282 Decicco Rd Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5464165,-72.9851893
+240598,037801490023,3083 East Main St,Waterbury,3083 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.546161,-72.9849788
+240608,037801490024,3081 East Main St,Waterbury,3081 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5461211,-72.9852224
+240618,037801490025,3065 East Main St,Waterbury,3065 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.546156,-72.985505
+240638,037801490027,3005 East Main St,Waterbury,3005 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5456722,-72.9869967
+240698,037801490211,94 Hillhouse Rd,Waterbury,94 Hillhouse Rd Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5465938,-72.9857154
+240868,037801520042,3091 East Main St,Waterbury,3091 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5463284,-72.98464
+240878,037801520043,3127 East Main St,Waterbury,3127 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5465408,-72.9840007
+240888,037801520044,3137 East Main St,Waterbury,3137 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.546957,-72.9837033
+240898,037901370015,3156 East Main St,Waterbury,3156 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5460329,-72.9831722
+240908,037901370016,3164 East Main St,Waterbury,3164 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5460537,-72.9828305
+240918,037901370017,3172 East Main St,Waterbury,3172 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5460342,-72.9825474
+240938,037901370019,3200 East Main St,Waterbury,3200 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5459609,-72.9814034
+240958,037901370021,3280 East Main St,Waterbury,3280 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5455269,-72.9799599
+241008,037901520001,3155 East Main St,Waterbury,3155 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5464004,-72.9830494
+241848,037901530051,3185 East Main St,Waterbury,3185 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5464335,-72.9822264
+241938,037901540313,3363 East Main St,Waterbury,3363 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5447411,-72.977933
+248778,039203000002,978 South Main St,Waterbury,978 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5426017,-73.0378011
+248808,039203000006,1004 South Main St,Waterbury,1004 South Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5422531,-73.0378022
+248818,039203000007,1014 South Main St,Waterbury,1014 South Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5421223,-73.0383449
+248898,039203010019,999 South Main St,Waterbury,999 South Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5423129,-73.0372616
+248908,039203010020,991 South Main St,Waterbury,991 South Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5424325,-73.0373029
+248938,039203010024,945 South Main St,Waterbury,945 South Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5429298,-73.0372143
+248948,039203010025,935 South Main St,Waterbury,935 South Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5431408,-73.0373037
+248958,039203010026,923 South Main St,Waterbury,923 South Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5433079,-73.0372925
+248968,039203010027,915 South Main St,Waterbury,915 South Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5434145,-73.03726
+248978,039203010028,911 South Main St,Waterbury,911 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.54369,-73.0371421
+249058,039203010024,945 South Main St,Waterbury,945 South Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5429298,-73.0372143
+252358,039701120009,1942 East Main St,Waterbury,1942 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5440009,-73.0103314
+252368,039701120010,1946 East Main St,Waterbury,1946 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5439661,-73.01019
+252908,039701150064,2024 East Main St,Waterbury,2024 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5433876,-73.0089642
+253028,039701170075,2094 East Main St,Waterbury,2094 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5433124,-73.0074935
+253038,039701170076,2104 East Main St,Waterbury,2104 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5433344,-73.007318
+253048,039701170077,2152 East Main St,Waterbury,2152 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5436523,-73.0061503
+253198,039701170781,2154 East Main St,Waterbury,2154 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5434138,-73.0064227
+253228,039701200651,2171 East Main St,Waterbury,2171 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5443133,-73.0062343
+253248,039801170005,2444 East Main St,Waterbury,2444 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5414518,-73.0008318
+253258,039801170006,2462 East Main St,Waterbury,2462 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5416569,-73.0001363
+253268,039801200001,2247 East Main St,Waterbury,2247 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5444062,-73.0053465
+253278,039801170002,2309 East Main St,Waterbury,2309 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5413683,-73.0072487
+253288,039801340004,2457 East Main St 1,Waterbury,2457 East Main St 1 Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,,
+253298,039901170026,2472 East Main St,Waterbury,2472 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5416135,-72.9998284
+253308,039901170027,2500 East Main St,Waterbury,2500 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5415102,-72.9991939
+254598,040001370050,2714 East Main St,Waterbury,2714 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5420403,-72.9936147
+254918,040001390021,2715 East Main St,Waterbury,2715 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5426425,-72.9938765
+254928,040001390022,2725 East Main St,Waterbury,2725 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5427045,-72.9935176
+254938,040001390023,2735 East Main St,Waterbury,2735 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5427339,-72.9932801
+254968,040001390231,2743 East Main St,Waterbury,2743 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.542792,-72.9931088
+255128,040001400042,2807 East Main St,Waterbury,2807 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5433722,-72.9916065
+255138,040001400043,2791 East Main St,Waterbury,2791 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5432855,-72.9919728
+255148,040001400044,2781 East Main St,Waterbury,2781 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5431714,-72.9921301
+255168,040001400046,2773 East Main St,Waterbury,2773 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5430507,-72.9923745
+255178,040001400047,2763 East Main St,Waterbury,2763 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5429348,-72.9926781
+255188,040001400361,2815 East Main St,Waterbury,2815 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5436924,-72.9914504
+255558,040001430060,2893 East Main St,Waterbury,2893 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5442637,-72.9895607
+25648,009102410052,2537 North Main St,Waterbury,2537 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5855943,-73.0297154
+25658,009102410053,2529 North Main St,Waterbury,2529 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5854055,-73.0297354
+25678,009102410432,2561 North Main St,Waterbury,2561 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5863263,-73.0295441
+257828,040201550023,3396 East Main St,Waterbury,3396 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5438609,-72.9772937
+257848,040301540001,3429 East Main St,Waterbury,3429 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.544055,-72.9766071
+257858,040301540002,3437 East Main St,Waterbury,3437 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.544013,-72.9762341
+257888,040301550005,3436 East Main St,Waterbury,3436 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5434758,-72.9765894
+257948,040401560007,3584 East Main St,Waterbury,3584 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5425972,-72.9700423
+258188,040401560007,3584 East Main St,Waterbury,3584 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5425972,-72.9700423
+258228,040401560061,3580 East Main St,Waterbury,3580 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5409044,-72.9709825
+258248,040401560612,3600 East Main St,Waterbury,3600 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5393622,-72.9676106
+25968,009102490033,2601 North Main St,Waterbury,2601 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5873312,-73.0290526
+25978,009102490034,2603 North Main St,Waterbury,2603 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5878456,-73.0288283
+25988,009102490054,2629 North Main St,Waterbury,2629 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5880978,-73.0287761
+262298,041210420056,134 Seymour St,Waterbury,134 Seymour St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5405727,-73.0519106
+262308,041210420057,6 Francis St,Waterbury,6 Francis St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5406973,-73.0524107
+262318,041210420058,150 Seymour St,Waterbury,150 Seymour St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.540502,-73.052323
+262388,041210420521,3 Francis St,Waterbury,3 Francis St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5408394,-73.0519744
+264598,041503000122,1298 South Main St,Waterbury,1298 South Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5387093,-73.0361721
+264638,041503000126,1140 South Main St,Waterbury,1140 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5405544,-73.0373049
+264648,041503000127,1106 South Main St,Waterbury,1106 South Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5409039,-73.0373361
+265178,041503070048,1077 South Main St,Waterbury,1077 South Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5413589,-73.0369388
+265188,041503070049,1085 South Main St,Waterbury,1085 South Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5412553,-73.0369119
+265198,041503070050,1093 South Main St,Waterbury,1093 South Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5411583,-73.0368545
+265218,041503070052,1121 South Main St,Waterbury,1121 South Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5408082,-73.0366445
+265238,041503070055,1139 South Main St,Waterbury,1139 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5403336,-73.0364505
+265248,041503070056,1175 South Main St,Waterbury,1175 South Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5401233,-73.036495
+268688,042001040001,162 Plank Rd,Waterbury,162 Plank Rd Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5411653,-73.0102926
+269308,042201360020,2558 East Main St,Waterbury,2558 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5413007,-72.997504
+269318,042201360021,2548 East Main St,Waterbury,2548 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5411051,-72.9977484
+269328,042201360022,2538 East Main St,Waterbury,2538 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5412943,-72.9981547
+269338,042201360022,2528 East Main St,Waterbury,2528 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5415265,-72.9983671
+269348,042201360024,2518 East Main St,Waterbury,2518 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5414651,-72.9986898
+269488,042201360201,2574 East Main St,Waterbury,2574 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5414224,-72.9971167
+277308,043803150011,1309 South Main St,Waterbury,1309 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5388843,-73.0360149
+277808,043803210044,1355 South Main St,Waterbury,1355 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5376915,-73.0355289
+277828,043803210046,1405 South Main St,Waterbury,1405 South Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5369661,-73.0356051
+277848,043803210048,1449 South Main St,Waterbury,1449 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5363668,-73.0357384
+277888,043803210481,1465 South Main St,Waterbury,1465 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5361176,-73.0358134
+279798,044004680041,34 Proctor St,Waterbury,34 Proctor St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5370291,-73.0248318
+279808,044004680042,46 Proctor St,Waterbury,46 Proctor St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5370915,-73.0244328
+280608,044004940043,45 Proctor St,Waterbury,45 Proctor St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.537398,-73.024819
+280618,044004940044,41 Proctor St,Waterbury,41 Proctor St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5373071,-73.0249581
+280628,044004940045,33 Proctor St,Waterbury,33 Proctor St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5372098,-73.0250661
+280638,044004940046,27 Proctor St,Waterbury,27 Proctor St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5370966,-73.0251816
+282718,044205010011,69 Prospect Rd,Waterbury,69 Prospect Rd Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5370111,-73.0137627
+282728,044205010012,111 Prospect Rd,Waterbury,111 Prospect Rd Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.536593,-73.0129782
+288728,045710940056,40 Hewey St,Waterbury,40 Hewey St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5332096,-73.0569297
+291958,046103210006,1501 South Main St,Waterbury,1501 South Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.536137,-73.035958
+291968,046103210007,1515 South Main St,Waterbury,1515 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5351735,-73.0360026
+291978,046103210008,1567 South Main St,Waterbury,1567 South Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5349285,-73.0362419
+291998,046103210010,1589 South Main St,Waterbury,1589 South Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5345211,-73.0363506
+292548,046103260013,1635 South Main St,Waterbury,1635 South Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.533932,-73.0365349
+294238,046305080054,44 Barden St,Waterbury,44 Barden St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5337699,-73.0238587
+294258,046305080056,37 Lowland Ave,Waterbury,37 Lowland Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5342312,-73.0244799
+294298,046305090057,37 Barden St,Waterbury,37 Barden St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.53413,-73.0237364
+294318,046305090060,9 Barden St,Waterbury,9 Barden St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.534595,-73.0240212
+294458,046305090711,95 Clover St,Waterbury,95 Clover St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5338048,-73.0233383
+299508,047810940053,46 Hewey St,Waterbury,46 Hewey St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5330985,-73.0568704
+299528,047810940055,60 Hewey St,Waterbury,60 Hewey St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5328353,-73.0567372
+299538,047810940056,64 Hewey St,Waterbury,64 Hewey St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5327077,-73.0566804
+299548,047810940057,72 Hewey St,Waterbury,72 Hewey St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5325556,-73.0566647
+299558,047810940058,78 Hewey St,Waterbury,78 Hewey St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.532456,-73.0565439
+304048,048203320003,1759 South Main St,Waterbury,1759 South Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5324266,-73.0376689
+304058,048203320004,1765 South Main St,Waterbury,1765 South Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5320886,-73.0379589
+304078,048203320008,1867 South Main St,Waterbury,1867 South Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5308454,-73.0384555
+304088,048203320009,1869 South Main St,Waterbury,1869 South Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5306964,-73.0385195
+307638,048704880019,1521 Hamilton Ave,Waterbury,1521 Hamilton Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5309298,-73.0067785
+307678,048704880141,1525 Hamilton Ave,Waterbury,1525 Hamilton Ave Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5311266,-73.0071815
+314348,050203320005,2089 South Main St,Waterbury,2089 South Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5279112,-73.039464
+314368,050203320007,2085 South Main St,Waterbury,2085 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.528344,-73.0395217
+314378,050203320008,2067 South Main St,Waterbury,2067 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5285721,-73.0393461
+314388,050203320009,2019 South Main St,Waterbury,2019 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5286669,-73.038132
+314398,050203320010,1999 South Main St,Waterbury,1999 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.529441,-73.038949
+314408,050203320011,1975 South Main St,Waterbury,1975 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5298257,-73.0388749
+314458,050203330004,2060 South Main St,Waterbury,2060 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5286362,-73.0401155
+314468,050203330041,2050 South Main St,Waterbury,2050 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.528893,-73.0400216
+314478,050203330042,2098 South Main St,Waterbury,2098 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5284008,-73.0402634
+323208,051903320004,2095 South Main St,Waterbury,2095 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5276407,-73.0398473
+323228,051903330041,2148 South Main St,Waterbury,2148 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5277131,-73.0405849
+323248,051903330411,2180 South Main St,Waterbury,2180 South Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5272258,-73.0407195
+323278,051903400011,2100 South Main St,Waterbury,2100 South Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5281848,-73.0401209
+32808,010402230075,2455 North Main St,Waterbury,2455 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5836778,-73.0296798
+33008,010402400024,2497 North Main St,Waterbury,2497 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5845102,-73.0297647
+33018,010402400025,2485 North Main St,Waterbury,2485 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5842123,-73.029691
+330498,053211270042,1360 Highland Ave,Waterbury,1360 Highland Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5224998,-73.0521177
+330518,053211270044,1346 Highland Ave Right,Waterbury,1346 Highland Ave Right Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+33318,010402420048,2468 North Main St,Waterbury,2468 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5838964,-73.0290362
+33338,010402420050,2428 North Main St,Waterbury,2428 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5834699,-73.0289076
+334668,054611270001,1382 Highland Ave,Waterbury,1382 Highland Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5222446,-73.0528345
+334678,054611270002,1390 Highland Ave,Waterbury,1390 Highland Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5221382,-73.0530914
+334688,054611270004,1400 Highland Ave,Waterbury,1400 Highland Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5220205,-73.0534567
+334698,054611270005,1406 Highland Ave,Waterbury,1406 Highland Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5219184,-73.05365689999998
+334708,054611270006,1410 Highland Ave,Waterbury,1410 Highland Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5218252,-73.0538587
+334718,054611270007,1422 Highland Ave,Waterbury,1422 Highland Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5216583,-73.0541491
+334728,054611270008,1426 Highland Ave,Waterbury,1426 Highland Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5215676,-73.0543229
+334748,054611270010,1438 Highland Ave,Waterbury,1438 Highland Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5214163,-73.0547026
+334758,054611270011,1450 Highland Ave,Waterbury,1450 Highland Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5212336,-73.0550123
+334908,054611790022,1435 Highland Ave,Waterbury,1435 Highland Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5211584,-73.0544092
+334998,054611790031,1425 Highland Ave,Waterbury,1425 Highland Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5213638,-73.054085
+335038,054611800032,1413 Highland Ave,Waterbury,1413 Highland Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5214748,-73.053756
+335108,054611800039,1405 Highland Ave,Waterbury,1405 Highland Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5215942,-73.0534983
+335368,054611810000000130013A,1385 Highland Ave 13A,Waterbury,1385 Highland Ave 13A Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+335378,054611810000000130013B,1385 Highland Ave 13B,Waterbury,1385 Highland Ave 13B Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+335608,054611810042,1357 Highland Ave,Waterbury,1357 Highland Ave Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5219847,-73.0518703
+339008,055903470003,2636 South Main St Motel,Waterbury,2636 South Main St Motel Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+340058,023601770167,12 Adams St Ext,Waterbury,12 Adams St Ext Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+340068,023601770166,14 Adams St Ext,Waterbury,14 Adams St Ext Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,,
+340078,023601770165,18 Adams St Ext,Waterbury,18 Adams St Ext Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,,
+340088,023601770164,22 Adams St Ext,Waterbury,22 Adams St Ext Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,,
+340098,025501630078,19 Adams St,Waterbury,19 Adams St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5612434,-73.0369798
+340108,023601770163,26 Adams St Ext,Waterbury,26 Adams St Ext Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,,
+344378,030504040072,212 Celia Dr,Waterbury,212 Celia Dr Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5561977,-72.982479
+347008,013008890034,432 Columbia Blvd,Waterbury,432 Columbia Blvd Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5790073,-73.0467464
+348718,005509830008,92 Downes St,Waterbury,92 Downes St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.595934,-73.0542356
+348728,005509830008,96 Downes St,Waterbury,96 Downes St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5960534,-73.050854
+348778,005509830005,114 Downes St,Waterbury,114 Downes St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5959564,-73.0536053
+348788,005509830005,118 Downes St,Waterbury,118 Downes St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5958538,-73.0539325
+348858,005509830004,159 Downes St,Waterbury,159 Downes St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5962944,-73.0520514
+352698,016408250021,96 Greenwood Ave,Waterbury,96 Greenwood Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5736297,-73.0379886
+353128,014902180010,133 Hamden Ave,Waterbury,133 Hamden Ave Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5748203,-73.0251317
+353148,014902180011,147 Hamden Ave,Waterbury,147 Hamden Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5742589,-73.025489
+353458,027400070001,21 West Main St,Waterbury,21 West Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5556789,-73.041326
+353468,041503000132,1114 South Main St,Waterbury,1114 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5411923,-73.0386032
+353948,053211270044,1346 Highland Ave Left,Waterbury,1346 Highland Ave Left Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+353988,054611810001,1385 Highland Ave 1A,Waterbury,1385 Highland Ave 1A Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+353998,054611810001,1385 Highland Ave 1B,Waterbury,1385 Highland Ave 1B Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354008,054611810010,1385 Highland Ave 10A,Waterbury,1385 Highland Ave 10A Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354018,054611810010,1385 Highland Ave 10B,Waterbury,1385 Highland Ave 10B Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354028,054611810011,1385 Highland Ave 11A,Waterbury,1385 Highland Ave 11A Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354038,054611810011,1385 Highland Ave 11B,Waterbury,1385 Highland Ave 11B Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354048,054611810012,1385 Highland Ave 12A,Waterbury,1385 Highland Ave 12A Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354058,054611810012,1385 Highland Ave 12B,Waterbury,1385 Highland Ave 12B Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354068,054611810014,1385 Highland Ave 14A,Waterbury,1385 Highland Ave 14A Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354078,054611810014,1385 Highland Ave 14B,Waterbury,1385 Highland Ave 14B Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354088,054611810015,1385 Highland Ave 15A,Waterbury,1385 Highland Ave 15A Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354098,054611810015,1385 Highland Ave 15B,Waterbury,1385 Highland Ave 15B Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354108,054611810016,1385 Highland Ave 16A,Waterbury,1385 Highland Ave 16A Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354118,054611810001,1385 Highland Ave 16B,Waterbury,1385 Highland Ave 16B Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354128,054611810016,1385 Highland Ave 17A,Waterbury,1385 Highland Ave 17A Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354138,054611810017,1385 Highland Ave 17B,Waterbury,1385 Highland Ave 17B Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354148,054611810018,1385 Highland Ave 18A,Waterbury,1385 Highland Ave 18A Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354158,054611810018,1385 Highland Ave 18B,Waterbury,1385 Highland Ave 18B Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354168,054611810019,1385 Highland Ave 19A,Waterbury,1385 Highland Ave 19A Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354178,054611810019,1385 Highland Ave 19B,Waterbury,1385 Highland Ave 19B Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354188,054611810002,1385 Highland Ave 2A,Waterbury,1385 Highland Ave 2A Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354198,054611810002,1385 Highland Ave 2B,Waterbury,1385 Highland Ave 2B Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354208,054611810020,1385 Highland Ave 20A,Waterbury,1385 Highland Ave 20A Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354218,054611810020,1385 Highland Ave 20B,Waterbury,1385 Highland Ave 20B Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354228,054611810021,1385 Highland Ave 21A,Waterbury,1385 Highland Ave 21A Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354238,054611810021,1385 Highland Ave 21B,Waterbury,1385 Highland Ave 21B Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354248,054611810022,1385 Highland Ave 22A,Waterbury,1385 Highland Ave 22A Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354258,054611810022,1385 Highland Ave 22B,Waterbury,1385 Highland Ave 22B Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354268,054611810023,1385 Highland Ave 23A,Waterbury,1385 Highland Ave 23A Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354278,054611810023,1385 Highland Ave 23B,Waterbury,1385 Highland Ave 23B Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354288,054611810024,1385 Highland Ave 24A,Waterbury,1385 Highland Ave 24A Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354298,054611810024,1385 Highland Ave 24B,Waterbury,1385 Highland Ave 24B Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354308,054611810003,1385 Highland Ave 3A,Waterbury,1385 Highland Ave 3A Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354318,054611810003,1385 Highland Ave 3B,Waterbury,1385 Highland Ave 3B Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354328,054611810004,1385 Highland Ave 4A,Waterbury,1385 Highland Ave 4A Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354338,054611810004,1385 Highland Ave 4B,Waterbury,1385 Highland Ave 4B Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354348,054611810005,1385 Highland Ave 5A,Waterbury,1385 Highland Ave 5A Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354358,054611810005,1385 Highland Ave 5B,Waterbury,1385 Highland Ave 5B Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354368,054611810006,1385 Highland Ave 6A,Waterbury,1385 Highland Ave 6A Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354378,054611810006,1385 Highland Ave 6B,Waterbury,1385 Highland Ave 6B Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354388,054611810007,1385 Highland Ave 7B,Waterbury,1385 Highland Ave 7B Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354398,054611810008,1385 Highland Ave 8A,Waterbury,1385 Highland Ave 8A Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354408,054611810008,1385 Highland Ave 8B,Waterbury,1385 Highland Ave 8B Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354418,054611810009,1385 Highland Ave 9A,Waterbury,1385 Highland Ave 9A Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354428,054611810009,1385 Highland Ave 9B,Waterbury,1385 Highland Ave 9B Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+354438,054611270009,1430 Highland Ave,Waterbury,1430 Highland Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5214993,-73.0545129
+356628,007902390001,2670 North Main St,Waterbury,2670 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5886823,-73.0260529
+357708,027400070001,21 West Main St,Waterbury,21 West Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5556789,-73.041326
+358148,034502910048,575 South Main St,Waterbury,575 South Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.548083,-73.0380518
+358218,034502920032,605 South Main St,Waterbury,605 South Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5476865,-73.0379729
+358568,046305090061,196 Edgewood Ave,Waterbury,196 Edgewood Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5348232,-73.0244941
+358748,,975 Main St,Waterbury,975 Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5866042,-73.0833037
+358758,,1192 Main St,Waterbury,1192 Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5866042,-73.0833037
+358768,,1219 Main St,Waterbury,1219 Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5866042,-73.0833037
+358778,,1230 Main St,Waterbury,1230 Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5866042,-73.0833037
+358858,000000000000,0 East Main St,Waterbury,0 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5440354,-72.9895415
+358938,029500760004,0 East Main St,Waterbury,0 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5440354,-72.9895415
+359138,027400150041,99 East Main St,Waterbury,99 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.555915,-73.0390083
+359168,027500150612,141 East Main St,Waterbury,141 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5558565,-73.0379905
+359178,027500150612,141 East Main St,Waterbury,141 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5558565,-73.0379905
+359208,029500760004,144 East Main St,Waterbury,144 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5548023,-73.0374292
+359238,027500150612,141 East Main St,Waterbury,141 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5558565,-73.0379905
+359278,000000000000,246 East Main St,Waterbury,246 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5545227,-73.0364218
+359298,000000000000,264 East Main St,Waterbury,264 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5545011,-73.036273
+359308,029500710701,317 East Main St,Waterbury,317 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5546152,-73.0353297
+359318,029500710069,337 East Main St,Waterbury,337 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5547988,-73.0348951
+359328,029500710068,351 East Main St,Waterbury,351 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5548562,-73.0345821
+359368,029600720001,421 East Main St,Waterbury,421 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5547533,-73.0332823
+359408,029600930098,574 East Main St,Waterbury,574 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5535647,-73.0302009
+359418,029600930098,574 East Main St,Waterbury,574 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5535647,-73.0302009
+359428,029600930098,574 East Main St,Waterbury,574 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5535647,-73.0302009
+359438,029600930098,574 East Main St,Waterbury,574 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5535647,-73.0302009
+359458,029600910058,645 East Main St,Waterbury,645 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.55405,-73.0293233
+359468,029600910591,651 East Main St,Waterbury,651 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5539232,-73.0289325
+359478,029600930095,656 East Main St,Waterbury,656 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.553753,-73.0289067
+359488,029600910060,669 East Main St,Waterbury,669 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5540222,-73.0289759
+359498,029600930093,666 East Main St,Waterbury,666 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.553599,-73.0289902
+359508,029600930092,690 East Main St,Waterbury,690 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5532646,-73.0289699
+359528,029700930034,780 East Main St,Waterbury,780 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.553158,-73.0273482
+359548,029700930037,836 East Main St,Waterbury,836 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5524923,-73.0266199
+359558,029700940047,851 East Main St,Waterbury,851 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5526769,-73.0259767
+359578,,884 East Main St,Waterbury,884 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5521741,-73.0257249
+359598,,892 East Main St,Waterbury,892 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5520956,-73.025611
+359618,032200940015,1057 East Main St,Waterbury,1057 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5508837,-73.0235635
+359628,032200940015,1057 East Main St,Waterbury,1057 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5508837,-73.0235635
+359638,032200930002,1086 East Main St,Waterbury,1086 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5500076,-73.0232258
+359648,032200940011,1093 East Main St,Waterbury,1093 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5502811,-73.0229791
+359658,032200930002,1086 East Main St,Waterbury,1086 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5500076,-73.0232258
+359668,032200930004,1118 East Main St,Waterbury,1118 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5496827,-73.022989
+359678,032200930004,1118 East Main St,Waterbury,1118 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5496827,-73.022989
+359688,032200940007,1131 East Main St,Waterbury,1131 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5499511,-73.0224482
+359698,03230094000A,1141 East Main St,Waterbury,1141 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5498611,-73.0219
+359738,,1210 East Main St,Waterbury,1210 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5486781,-73.0209507
+359758,,1226 East Main St,Waterbury,1226 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5486287,-73.020867
+359768,034800940011,1271 East Main St,Waterbury,1271 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5488163,-73.020479
+359788,034801010025,1325 East Main St,Waterbury,1325 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5483454,-73.0195488
+359798,034801010029,1405 East Main St,Waterbury,1405 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5480866,-73.0186317
+359818,,1447 East Main St,Waterbury,1447 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5476536,-73.0189109
+359828,037201020005,1527 East Main St,Waterbury,1527 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5468506,-73.0175719
+359838,037201020005,1533 East Main St,Waterbury,1533 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5466921,-73.0166563
+359848,037301090117,1660 East Main St,Waterbury,1660 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5458449,-73.0143651
+359868,037301060085,1719 East Main St,Waterbury,1719 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5459302,-73.0135317
+359888,037301070050,1773 East Main St,Waterbury,1773 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5455283,-73.0125741
+359898,037301110085,1820 East Main St,Waterbury,1820 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5448386,-73.0120058
+359938,039701170077,2150 East Main St,Waterbury,2150 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5433973,-73.0067264
+359958,039701200651,2171 East Main St,Waterbury,2171 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5443133,-73.0062343
+359968,039701200651,2171 East Main St *2221,Waterbury,2171 East Main St *2221 Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5443133,-73.0062343
+359978,039701200651,2171 East Main St,Waterbury,2171 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5443133,-73.0062343
+359988,039801170002,2309 East Main St,Waterbury,2309 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5413683,-73.0072487
+359998,039801340004,2457 East Main St Svc.,Waterbury,2457 East Main St Svc. Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,,
+360048,037801430033,2927 East Main St,Waterbury,2927 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5448177,-72.9890739
+360058,037801490028,2999 East Main St,Waterbury,2999 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5455799,-72.9872173
+360068,037801490028,2999 East Main St,Waterbury,2999 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5455799,-72.9872173
+360088,037901533199,3199 East Main St,Waterbury,3199 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5468384,-72.9818087
+360118,037901530008,3269 East Main St,Waterbury,3269 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5466773,-72.9788211
+360128,037901530008,3269 East Main St,Waterbury,3269 East Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5466773,-72.9788211
+360138,037901530008,3269 East Main St,Waterbury,3269 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5466773,-72.9788211
+360148,040201550023,3396 East Main St,Waterbury,3396 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5438609,-72.9772937
+360158,040401560061,3580 East Main St,Waterbury,3580 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5409044,-72.9709825
+360168,040401560061,3580 East Main St,Waterbury,3580 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5409044,-72.9709825
+360178,040401560612,3600 East Main St,Waterbury,3600 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5393622,-72.9676106
+360188,027400140493,2 North Main St,Waterbury,2 North Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5560481,-73.0403878
+360198,027400140047,32 North Main St,Waterbury,32 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5563357,-73.0403448
+360208,027400140046,36 North Main St,Waterbury,36 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5564457,-73.0401613
+360248,027400020016,103 North Main St,Waterbury,103 North Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5576759,-73.0396509
+360258,027400020029,143 North Main St,Waterbury,143 North Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5578943,-73.0393293
+360278,025501620231,245 North Main St,Waterbury,245 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.558842,-73.0383363
+360288,025501620231,245 North Main St,Waterbury,245 North Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.558842,-73.0383363
+360298,025501620231,245 North Main St,Waterbury,245 North Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.558842,-73.0383363
+360308,025500850141,316 North Main St,Waterbury,316 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5590258,-73.0374244
+360318,025500850141,326 North Main St,Waterbury,326 North Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5591329,-73.0372558
+360328,025500850141,334 North Main St,Waterbury,334 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5592182,-73.0371207
+360348,025501660148,486 North Main St,Waterbury,486 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5603363,-73.0344603
+360378,023701660241,526 North Main St,Waterbury,526 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5616342,-73.0330654
+360398,023701790007,675 North Main St,Waterbury,675 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5629676,-73.0328683
+360408,023701790007,675 North Main St,Waterbury,675 North Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5629676,-73.0328683
+360448,023701660024,730 North Main St,Waterbury,730 North Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5624545,-73.031505
+360478,021801660158,810 North Main St,Waterbury,810 North Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5638124,-73.0312439
+360488,021801840063,807 North Main St,Waterbury,807 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5641335,-73.0314261
+360498,021801800152,848 North Main St,Waterbury,848 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.564103,-73.0308221
+360508,021801850087,899 - 901 North Main St,Waterbury,899 - 901 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5713434,-73.0261352
+360518,021801900124,926 North Main St,Waterbury,926 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5649877,-73.0296382
+360558,021801910109,1064 North Main St,Waterbury,1064 North Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5662817,-73.0279919
+360578,020102120024,1125 North Main St,Waterbury,1125 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5668311,-73.0273193
+360588,020102120022,1143 North Main St,Waterbury,1143 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5670844,-73.02714
+360608,018302090008,1389 North Main St,Waterbury,1389 North Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5698902,-73.0261859
+360628,016602090004,1597 North Main St,Waterbury,1597 North Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5728292,-73.026754
+360638,014902090001,1711 North Main St,Waterbury,1711 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5769944,-73.0287016
+360648,014902090001,1711 North Main St,Waterbury,1711 North Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5769944,-73.0287016
+360658,014902180010,1800 North Main St,Waterbury,1800 North Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5753817,-73.0263305
+360668,014902090041,1805 North Main St,Waterbury,1805 North Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5759874,-73.0269537
+360678,013402200020,1926 North Main St,Waterbury,1926 North Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5774278,-73.0268302
+360718,,2016 North Main St,Waterbury,2016 North Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5776701,-73.027336
+360728,013402200014,2046 North Main- Capped Acct S,Waterbury,2046 North Main- Capped Acct S Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,,
+360758,006902530001,2817 North Main St,Waterbury,2817 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5931818,-73.0277085
+360768,006002540003,2851 North Main St,Waterbury,2851 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5943266,-73.0266337
+360778,005102550006,2991 North Main St,Waterbury,2991 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5976734,-73.0257246
+360788,005102560016,3000 North Main St,Waterbury,3000 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5976339,-73.025014
+360798,004202570004,3069 North Main St,Waterbury,3069 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5995358,-73.0244065
+360808,004202570007,3125 North Main St,Waterbury,3125 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5998519,-73.0234954
+360848,039203000001,952 South Main St,Waterbury,952 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5434841,-73.0380294
+360858,036903100002,0 South Main St,Waterbury,0 South Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5182913,-73.0447258
+360868,036903100002,0 South Main St,Waterbury,0 South Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5182913,-73.0447258
+360898,029400120099,23 South Main St,Waterbury,23 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5532407,-73.0396297
+360988,031902750015,309 South Main St,Waterbury,309 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5520277,-73.0393176
+361008,034502790001,464 South Main St,Waterbury,464 South Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5495457,-73.0388811
+361018,034502790003,490 South Main St,Waterbury,490 South Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5491443,-73.0391043
+361078,034502810011,606 - 610 South Main St,Waterbury,606 - 610 South Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5182913,-73.0447258
+361088,034502810011,606 South Main St,Waterbury,606 South Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.547708,-73.0383009
+361108,034502810012,624 South Main St,Waterbury,624 South Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5476418,-73.0382854
+361118,036902930004,675 South Main St,Waterbury,675 South Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5467206,-73.0377118
+361138,036903100002,698 South Main St,Waterbury,698 South Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5450068,-73.0385572
+361148,036903100002,698 South Main St,Waterbury,698 South Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5450068,-73.0385572
+361158,036902930005,691 South Main St,Waterbury,691 South Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5466567,-73.0378335
+361168,036902930007,709 South Main St,Waterbury,709 South Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5462137,-73.0376547
+361178,036902930009,731 South Main St,Waterbury,731 South Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.545905,-73.037599
+361188,036903100002,736 South Main St,Waterbury,736 South Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5461433,-73.0379382
+361198,036902940020,777 South Main St,Waterbury,777 South Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5459898,-73.0376803
+361228,036902820001,848 South Main St,Waterbury,848 South Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5443185,-73.0376109
+361248,039203000001,952 South Main St,Waterbury,952 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5434841,-73.0380294
+361258,039203000001,952 South Main St,Waterbury,952 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5434841,-73.0380294
+361268,039203010028,911 South Main St,Waterbury,911 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.54369,-73.0371421
+361308,039203010018,1011 South Main St,Waterbury,1011 South Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5421951,-73.037239
+361318,039203010017,1015 South Main St,Waterbury,1015 South Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5420889,-73.0372031
+361408,041503000127,1106 South Main St,Waterbury,1106 South Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5409039,-73.0373361
+361418,041503000127,1106 South Main St,Waterbury,1106 South Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5409039,-73.0373361
+361428,041503000127,1106 South Main St,Waterbury,1106 South Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5409039,-73.0373361
+361438,041503070051,1099 South Main St,Waterbury,1099 South Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5410565,-73.036808
+361448,041503000123,1200 South Main St,Waterbury,1200 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5397705,-73.037028
+361468,041503000120,1302 South Main St,Waterbury,1302 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5386959,-73.0361663
+361478,043803150011,1311 South Main St,Waterbury,1311 South Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5388329,-73.0359922
+361488,043803210045,1379 South Main St,Waterbury,1379 South Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5376407,-73.0356751
+361498,043803210047,1443 South Main St,Waterbury,1443 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5365403,-73.0356972
+361508,046103210008,1565 South Main St,Waterbury,1565 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5349669,-73.0362873
+361518,046103210009,1577 South Main St,Waterbury,1577 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.534751,-73.0363602
+361538,048203321827,1827 South Main St,Waterbury,1827 South Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5316856,-73.0382064
+361548,048203321845,1845 South Main St,Waterbury,1845 South Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5315021,-73.0383287
+361558,048203321855,1855 South Main St,Waterbury,1855 South Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5312852,-73.0383869
+361568,048203321863,1863 South Main St,Waterbury,1863 South Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5310736,-73.038449
+361578,050203320011,1975 South Main St,Waterbury,1975 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5298257,-73.0388749
+361588,050203320010,1999 South Main St,Waterbury,1999 South Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.529441,-73.038949
+361598,050203320006,2091 South Main St,Waterbury,2091 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5276905,-73.0400853
+361618,055903470002,2620 South Main St,Waterbury,2620 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5178778,-73.045821
+361628,055903470003,2636 South Main St Offic,Waterbury,2636 South Main St Offic Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+361688,027200220001,751 West Main St,Waterbury,751 West Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5562141,-73.0529078
+361698,027200220001,751 West Main St,Waterbury,751 West Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5562141,-73.0529078
+361708,027400020020,2 West Main St,Waterbury,2 West Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.556815,-73.0407333
+361728,027400070061,41 West Main St,Waterbury,41 West Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5558108,-73.0419433
+361778,027400040006,144 West Main St,Waterbury,144 West Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5574123,-73.0432475
+361818,027300170381,251 West Main St,Waterbury,251 West Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5573904,-73.0454314
+361828,027300170381,263 West Main St,Waterbury,263 West Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5574247,-73.0455772
+361838,027300230058,280 West Main St,Waterbury,280 West Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5576702,-73.0458212
+361848,027300230058,280 West Main St,Waterbury,280 West Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5576702,-73.0458212
+361858,027300230060,298 West Main St,Waterbury,298 West Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5578215,-73.0457333
+361868,027300230060,298 West Main St,Waterbury,298 West Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5578215,-73.0457333
+361888,027300230060,314 West Main St,Waterbury,314 West Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5578451,-73.0463806
+361908,025300540073,380 West Main St,Waterbury,380 West Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5581432,-73.0470791
+361948,025300540074,398 West Main St,Waterbury,398 West Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5581838,-73.0473023
+361968,025300540075,414 West Main St,Waterbury,414 West Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5581954,-73.0486041
+361988,025300540075,414 West Main St,Waterbury,414 West Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5581954,-73.0486041
+362008,,420 West Main St,Waterbury,420 West Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5582018,-73.0486457
+362028,025300560097,470 West Main St,Waterbury,470 West Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5582546,-73.0489929
+362038,025300560096,478 West Main St,Waterbury,478 West Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.558401,-73.0490392
+362048,025300570093,506 West Main St,Waterbury,506 West Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5584942,-73.0495879
+362068,,584 West Main St,Waterbury,584 West Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5584742,-73.0506833
+362098,027200220023,649 West Main St,Waterbury,649 West Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5575943,-73.0510131
+362108,027200220023,649 West Main St,Waterbury,649 West Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5575943,-73.0510131
+362118,027200220023,649 West Main St,Waterbury,649 West Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5575943,-73.0510131
+362128,025200240001,770 West Main St,Waterbury,770 West Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5586935,-73.0534899
+362138,027200240011,744 West Main St,Waterbury,744 West Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5576848,-73.0536847
+362148,027200220001,771 West Main St,Waterbury,771 West Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.556951,-73.0547073
+362188,027100250088,990 West Main St,Waterbury,990 West Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5578017,-73.0572032
+362228,027100320038,1113 West Main St,Waterbury,1113 West Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.555364,-73.0609999
+362258,029000420091,1198 West Main St,Waterbury,1198 West Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5527022,-73.0634557
+362278,029000420093,1243 West Main St,Waterbury,1243 West Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5524518,-73.0633906
+362298,031500461312,1312 West Main St,Waterbury,1312 West Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5514509,-73.0657211
+362308,031500470001,1389 West Main St,Waterbury,1389 West Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5491881,-73.0655738
+362318,031500470001,1389 West Main St,Waterbury,1389 West Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5491881,-73.0655738
+362328,031500470001,1389 West Main St,Waterbury,1389 West Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5491881,-73.0655738
+362918,027300180031,389 Meadow St,Waterbury,389 Meadow St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5554372,-73.0472535
+362988,027300180031,389 Meadow St,Waterbury,389 Meadow St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5554372,-73.0472535
+364298,027300230060,298 West Main St,Waterbury,298 West Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5578215,-73.0457333
+365088,025500850181,262 North Main St,Waterbury,262 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5583947,-73.0382982
+365338,027705830131,131 Oak St,Waterbury,131 Oak St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.557772,-73.0231622
+365348,027705820134,130 - 132 Oak St,Waterbury,130 - 132 Oak St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5528957,-73.0224267
+365358,027705820128,164 Oak St,Waterbury,164 Oak St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.556672,-73.02376
+365368,027705821241,182 Oak St,Waterbury,182 Oak St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5563014,-73.0238466
+365388,029700960091,238 Oak St,Waterbury,238 Oak St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5546821,-73.0241048
+365398,029700960092,242 Oak St,Waterbury,242 Oak St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5545877,-73.0241157
+365968,031500461312,1312 West Main St 102,Waterbury,1312 West Main St 102 Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5514509,-73.0657211
+366058,023601760175,14 Pearl St,Waterbury,14 Pearl St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5613078,-73.0373786
+366758,039601040092,0 Plank Rd,Waterbury,0 Plank Rd Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5398753,-73.0076777
+366768,039601040091,102 Plank Rd,Waterbury,102 Plank Rd Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5418467,-73.0112458
+368688,029000410067,1250 West Main St,Waterbury,1250 West Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5526488,-73.0641887
+375398,055903470001,2670 South Main St,Waterbury,2670 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5174039,-73.0480049
+378008,034903500711,75 Woodward Ave,Waterbury,75 Woodward Ave Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5481401,-73.0129915
+378668,016602090003,1559 North Main St,Waterbury,1559 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5724808,-73.0266582
+378748,053211270041,1370 Highland Ave,Waterbury,1370 Highland Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5224206,-73.0525365
+378778,027400070001,21 West Main St,Waterbury,21 West Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5556789,-73.041326
+378838,000000000000,0 Main St,Waterbury,0 Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5866042,-73.0833037
+378958,027400140493,2 North Main St,Waterbury,2 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5560481,-73.0403878
+378968,027400140493,2 North Main St,Waterbury,2 North Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5560481,-73.0403878
+379008,025300230107,334 West Main St,Waterbury,334 West Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5582706,-73.0463117
+379698,029500130003,122 East Main St,Waterbury,122 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5550764,-73.0386561
+379738,025300560097,466 West Main St,Waterbury,466 West Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.558389,-73.0488889
+379748,025300560097,466 West Main St,Waterbury,466 West Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.558389,-73.0488889
+380158,037201040003,1 Plank Rd,Waterbury,1 Plank Rd Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.54327,-73.015211
+380558,039801340004,2457 East Main St 2,Waterbury,2457 East Main St 2 Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,,
+380878,037901370018,3196 East Main St,Waterbury,3196 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5453912,-72.9820758
+380888,037901370018,3196 East Main St,Waterbury,3196 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5453912,-72.9820758
+380908,029600890016,507 East Main St,Waterbury,507 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.554495,-73.0318448
+380978,031500461320,1320 West Main St,Waterbury,1320 West Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5512234,-73.0664837
+381138,031500461320,1320 West Main St 2,Waterbury,1320 West Main St 2 Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,,
+381428,016308210073,0 Greenwood Ave,Waterbury,0 Greenwood Ave Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5738195,-73.0380806
+381668,039203010025,937 South Main St,Waterbury,937 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.543307,-73.0373887
+381918,027400030010,130 West Main St,Waterbury,130 West Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5573095,-73.0426735
+381948,039801340004,2457 East Main St 3,Waterbury,2457 East Main St 3 Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,,
+382338,039203010024,945 South Main St,Waterbury,945 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5429298,-73.0372143
+382348,039203010024,945 South Main St,Waterbury,945 South Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5429298,-73.0372143
+383368,039801340004,2457 East Main St 4,Waterbury,2457 East Main St 4 Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,,
+383738,054611810007,1385 Highland Ave 7A,Waterbury,1385 Highland Ave 7A Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+384188,029000430075,1155 West Main St,Waterbury,1155 West Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.554345,-73.0611868
+386388,035304590491,160 Midland Rd,Waterbury,160 Midland Rd Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5489413,-72.9893725
+386628,011802200032,2200 North Main St,Waterbury,2200 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5804657,-73.0285184
+387188,046305080544,67 Lowland St,Waterbury,67 Lowland St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+387798,032200940013,1073 East Main St,Waterbury,1073 East Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5502071,-73.0230987
+388088,050203330043,2122 South Main St,Waterbury,2122 South Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.528057,-73.0404608
+389548,031500420019,1249 West Main St A,Waterbury,1249 West Main St A Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,,
+390438,037401080034,1929 East Main St,Waterbury,1929 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5447558,-73.0101592
+390448,037401080034,1929 East Main St Serv,Waterbury,1929 East Main St Serv Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,,
+391718,055811770102,37 Bristol St,Waterbury,37 Bristol St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5183817,-73.0547325
+392338,040401560611,3612 East Main St,Waterbury,3612 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5425288,-72.9690039
+392348,040401560061,3580 East Main St,Waterbury,3580 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5409044,-72.9709825
+392358,040401560061,3580 East Main St,Waterbury,3580 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5409044,-72.9709825
+392548,034801010030,1417 East Main St,Waterbury,1417 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5479245,-73.0193499
+392728,040401560611,3612 East Main St,Waterbury,3612 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5425288,-72.9690039
+392738,040401560611,3612 East Main St,Waterbury,3612 East Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5425288,-72.9690039
+392878,040401560611,3612 East Main St,Waterbury,3612 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5425288,-72.9690039
+392888,006902390009,2780 North Main St,Waterbury,2780 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5915054,-73.0261699
+393258,,0 Plank Rd Pool,Waterbury,0 Plank Rd Pool Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,,
+393328,031500420016,1253 -1279 West Main St,Waterbury,1253 -1279 West Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,,
+393408,031500420016,1253 West Main St Svc,Waterbury,1253 West Main St Svc Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,,
+394048,038201540002,3821 East Main St,Waterbury,3821 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5431405,-72.9675022
+394238,046305080547,54 Barden St,Waterbury,54 Barden St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5337334,-73.0238042
+394968,040401560008,3670 East Main St,Waterbury,3670 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5428101,-72.96659
+395038,037401200039,1981 East Main St,Waterbury,1981 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5442816,-73.0086778
+395048,037401200039,1981 East Main St,Waterbury,1981 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5442816,-73.0086778
+395058,037401200039,1981 East Main St,Waterbury,1981 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5442816,-73.0086778
+395088,040401560008,3670 East Main St,Waterbury,3670 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5428101,-72.96659
+395598,,1760 Main St,Waterbury,1760 Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5866042,-73.0833037
+395618,,574 Main St,Waterbury,574 Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5866042,-73.0833037
+395628,,1230 Main St,Waterbury,1230 Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5866042,-73.0833037
+395678,034801010029,1405 East Main St,Waterbury,1405 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5480866,-73.0186317
+396028,021801850086,885 North Main St #01,Waterbury,885 North Main St #01 Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+396038,021801850086,885 North Main St #02,Waterbury,885 North Main St #02 Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+396048,021801850086,885 North Main St #03,Waterbury,885 North Main St #03 Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+396058,021801850086,885 North Main St #04,Waterbury,885 North Main St #04 Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+396068,021801850086,885 North Main St #05,Waterbury,885 North Main St #05 Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+396078,021801850086,885 North Main St #06,Waterbury,885 North Main St #06 Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+396088,021801850086,885 North Main St #07,Waterbury,885 North Main St #07 Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+396098,021801850086,885 North Main St #08,Waterbury,885 North Main St #08 Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+396108,021801850086,885 North Main St #09,Waterbury,885 North Main St #09 Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+396118,021801850086,885 North Main St #10,Waterbury,885 North Main St #10 Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,,
+396138,029400130139,110 East Main St,Waterbury,110 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.555109,-73.0389392
+400000,040401560002,3528 East Main St,Waterbury,3528 East Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5430212,-72.9720925
+400003,041210370020,37 Rosemount Ave,Waterbury,37 Rosemount Ave Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,,
+400010,029000410067,1250 West Main St,Waterbury,1250 West Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5526488,-73.0641887
+400034,023701660024,730 North Main St,Waterbury,730 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5624545,-73.031505
+400064,034801000038,0 Plank Rd,Waterbury,0 Plank Rd Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5398753,-73.0076777
+400083,023701660024,730 North Main St,Waterbury,730 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5624545,-73.031505
+400112,038201540011 0390100002,3801 East Main St 2,Waterbury,3801 East Main St 2 Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,,
+400119,027400040006,100 West Main St,Waterbury,100 West Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5569188,-73.0423258
+400120,020002110064,1075 North Main St,Waterbury,1075 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5664348,-73.0280833
+400143,023701660024,730 North Main St,Waterbury,730 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5624545,-73.031505
+400144,023701660024,730 North Main St,Waterbury,730 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5624545,-73.031505
+400162,025501650091,449 North Main St,Waterbury,449 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5604507,-73.0354566
+400236,,0 Plank Rd,Waterbury,0 Plank Rd Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5398753,-73.0076777
+400244,031500420019,1249 West Main St B,Waterbury,1249 West Main St B Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,,
+400247,016408250023,108 Greenwood Ave,Waterbury,108 Greenwood Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5737779,-73.0376402
+400258,025705832822A,109 Oak St A,Waterbury,109 Oak St A Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,,
+400259,025705832822B,109 Oak St B,Waterbury,109 Oak St B Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,,
+41508,011802200027,2262 North Main St,Waterbury,2262 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5812648,-73.0285053
+41518,011802200028,2250 North Main St,Waterbury,2250 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5811186,-73.0285125
+41528,011802200029,2238 North Main St,Waterbury,2238 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5809492,-73.0285264
+41538,011802200030,2226 North Main St,Waterbury,2226 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5807882,-73.0285316
+41548,011802200031,2214 North Main St,Waterbury,2214 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5806304,-73.0285241
+41568,011802200033,2190 North Main St,Waterbury,2190 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5802834,-73.0284895
+41578,011802200034,2160 North Main St,Waterbury,2160 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5800568,-73.0283908
+41648,011802230013,2211 North Main St,Waterbury,2211 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5805591,-73.0290894
+41658,011802230014,2225 North Main St,Waterbury,2225 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5807442,-73.030031
+41678,011802230016,2259 North Main St,Waterbury,2259 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5812076,-73.0291351
+41688,011802230017,2279 North Main St,Waterbury,2279 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5814754,-73.0292221
+41828,011802390019,2356 North Main St,Waterbury,2356 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.582568,-73.0282731
+41838,011802390020,2344 North Main St,Waterbury,2344 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5824059,-73.0283297
+41848,011802390021,2332 North Main St,Waterbury,2332 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5822408,-73.0283702
+41858,011802390022,2320 North Main St,Waterbury,2320 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5820771,-73.0284152
+47798,013008660013,22 Waverly St,Waterbury,22 Waverly St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5787116,-73.047855
+47808,013008660014,28 Waverly St,Waterbury,28 Waverly St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5787245,-73.0476292
+47818,013008660015,34 Waverly St,Waterbury,34 Waverly St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5787379,-73.0474253
+47828,013008660016,40 Waverly St,Waterbury,40 Waverly St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5787506,-73.047183
+47938,013008880017,35 Waverly St,Waterbury,35 Waverly St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5790896,-73.0474117
+47948,013008880018,21 Waverly St,Waterbury,21 Waverly St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.579106,-73.0478364
+48028,013008890033,438 Columbia Blvd,Waterbury,438 Columbia Blvd Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5783249,-73.0463787
+48048,013008890035,71 Melbourne Terr,Waterbury,71 Melbourne Terr Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5790523,-73.0459925
+48108,013008890321,448 Columbia Blvd,Waterbury,448 Columbia Blvd Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5786974,-73.0464051
+48148,013008890342,428 Columbia Blvd,Waterbury,428 Columbia Blvd Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5779982,-73.0463136
+48398,013008910028,452 Columbia Blvd,Waterbury,452 Columbia Blvd Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5792981,-73.0464802
+48418,013008910030,91 Melbourne Terr,Waterbury,91 Melbourne Terr Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5794904,-73.0460246
+48478,013008920070,115 Waverly St,Waterbury,115 Waverly St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5794758,-73.0446795
+48808,013108920001,119 Waverly St,Waterbury,119 Waverly St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.579482,-73.0444986
+48818,013108920002,125 Waverly St,Waterbury,125 Waverly St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5794969,-73.0443129
+48828,013108920003,59 Dwight St,Waterbury,59 Dwight St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5797606,-73.0437361
+48838,013108930004,39 Dwight St,Waterbury,39 Dwight St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5792677,-73.0435423
+48858,013108930006,60 Grace Ave,Waterbury,60 Grace Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5792041,-73.0443292
+48868,013108930007,56 Grace Ave,Waterbury,56 Grace Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5790188,-73.0443491
+4918,003402580072,3255 North Main St,Waterbury,3255 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.6016254,-73.0183224
+51318,013302200089,2144 North Main St,Waterbury,2144 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5797668,-73.0283107
+51328,013302200090,2120 North Main St,Waterbury,2120 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5794896,-73.02831
+51338,013302200091,2108 North Main St,Waterbury,2108 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5793346,-73.0282156
+51348,013302200092,2090 North Main St,Waterbury,2090 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.579121,-73.0281018
+51358,013302200093,2084 North Main St,Waterbury,2084 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5788263,-73.0278869
+51418,013302220087,2073 North Main St,Waterbury,2073 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5787375,-73.0285146
+52388,013402200014,2046 North Main St,Waterbury,2046 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5785041,-73.0274253
+52408,013402200020,1926 North Main St,Waterbury,1926 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5774278,-73.0268302
+63578,014902090041,1805 North Main St,Waterbury,1805 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5759874,-73.0269537
+6398,004202560013,3078 North Main St,Waterbury,3078 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5993131,-73.0236474
+64018,014902180008,1804 North Main St,Waterbury,1804 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5757099,-73.0261247
+64078,014902200006,1906 North Main St,Waterbury,1906 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5771013,-73.026447
+6448,004202570005,3077 North Main St,Waterbury,3077 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5997019,-73.0241606
+6458,004202570006,3087 North Main St,Waterbury,3087 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.599844,-73.0238723
+6568,004202570071,3097 North Main St,Waterbury,3097 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.6000449,-73.0235036
+6578,004202570072,3105 North Main St,Waterbury,3105 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.6001736,-73.0232858
+6618,004302560006,3132 North Main St,Waterbury,3132 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.6003442,-73.022022
+6658,004302560010,3180 North Main St,Waterbury,3180 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.6007982,-73.0207098
+6668,004302560011,3206 North Main St,Waterbury,3206 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.600904,-73.0198137
+6998,004302570002,3177 North Main St,Waterbury,3177 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.6011536,-73.0210117
+7008,004302570003,3163 North Main St,Waterbury,3163 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.6010044,-73.0215365
+7018,004302570004,3155 North Main St,Waterbury,3155 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.6009776,-73.0217585
+7028,004302570021,3167 North Main St,Waterbury,3167 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.6011169,-73.0212974
+7038,004302580021,3231 North Main St,Waterbury,3231 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.6016169,-73.0190691
+7068,004302580024,3211 North Main St,Waterbury,3211 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.6015989,-73.0197776
+73288,016408210001,71 Greenwood Ave,Waterbury,71 Greenwood Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.573995,-73.0388487
+73318,016408220004,97 Greenwood Ave,Waterbury,97 Greenwood Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.574024,-73.0380587
+73328,016408220005,99 Greenwood Ave,Waterbury,99 Greenwood Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5740336,-73.0377626
+73338,016408230006,117 Greenwood Ave,Waterbury,117 Greenwood Ave Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5740975,-73.0372467
+73348,016408230007,125 Greenwood Ave,Waterbury,125 Greenwood Ave Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5740948,-73.0370406
+73358,016408230008,129 Greenwood Ave,Waterbury,129 Greenwood Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5740915,-73.0368138
+73368,016408230009,135 Greenwood Ave,Waterbury,135 Greenwood Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5741089,-73.0366001
+73378,016408230010,141 Greenwood Ave,Waterbury,141 Greenwood Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5741012,-73.0363868
+73418,016408240014,163 Greenwood Ave,Waterbury,163 Greenwood Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5741326,-73.0355672
+73428,016408240015,171 Greenwood Ave,Waterbury,171 Greenwood Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5741571,-73.0353932
+73438,016408240016,175 Greenwood Ave,Waterbury,175 Greenwood Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5741573,-73.0351917
+73448,016408240017,179 Greenwood Ave,Waterbury,179 Greenwood Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5741744,-73.0349934
+73498,016408250022,104 Greenwood Ave,Waterbury,104 Greenwood Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5736358,-73.0377257
+73508,016308210073,0 Greenwood Ave,Waterbury,0 Greenwood Ave Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5738195,-73.0380806
+73518,016408250024,114 Greenwood Ave,Waterbury,114 Greenwood Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5736706,-73.0373709
+73528,016408250025,120 Greenwood Ave,Waterbury,120 Greenwood Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5736991,-73.0371986
+73538,016408250027,128 Greenwood Ave,Waterbury,128 Greenwood Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5736056,-73.0368143
+73548,016408250028,140 Greenwood Ave,Waterbury,140 Greenwood Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5737313,-73.0364276
+73558,016408250029,150 Greenwood Ave,Waterbury,150 Greenwood Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5736148,-73.0360722
+74198,016502090027,291 Citizens Ave,Waterbury,291 Citizens Ave Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5739149,-73.0305601
+75048,016601990078,1526 North Main St,Waterbury,1526 North Main St Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,41.5718748,-73.0258258
+75428,016602090005,1607 North Main St,Waterbury,1607 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5729191,-73.0265398
+75438,016602090006,1617 North Main St,Waterbury,1617 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5730576,-73.0265454
+75448,016602090007,1627 North Main St,Waterbury,1627 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5731898,-73.0265713
+75618,016602140067,1560 North Main St,Waterbury,1560 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5725787,-73.0260651
+75628,016602140068,1558 North Main St,Waterbury,1558 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5724456,-73.0260586
+75828,016602150046,1626 North Main St,Waterbury,1626 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5732263,-73.0261304
+76308,016602180013,1696 North Main St,Waterbury,1696 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5741752,-73.026188
+76318,016602180014,1694 North Main St,Waterbury,1694 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5740413,-73.0262035
+8308,005102550004,2969 North Main St,Waterbury,2969 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5971425,-73.0261729
+8318,005102550005,2987 North Main St,Waterbury,2987 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5974544,-73.0260481
+8328,005102550007,2995 North Main St,Waterbury,2995 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5979903,-73.0261051
+8348,005102550008,3013 North Main St,Waterbury,3013 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5982383,-73.0255503
+8358,005102550009,3023 North Main St,Waterbury,3023 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5984793,-73.0254172
+8368,005102550010,3029 North Main St,Waterbury,3029 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5986869,-73.0253296
+8378,005102550011,3039 North Main St,Waterbury,3039 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5989475,-73.0252558
+8438,005102550081,3015 North Main St,Waterbury,3015 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5984089,-73.0259975
+88858,018202070075,0 Junior Ave,Waterbury,0 Junior Ave Waterbury Connecticut,Connecticut,Lead,Other,Ct1510011,Waterbury Water Department,,
+90068,018301990017,1480 North Main St,Waterbury,1480 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5711478,-73.0254274
+90078,018301990018,1448 North Main St,Waterbury,1448 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5708394,-73.0258419
+90088,018301990019,1440 North Main St,Waterbury,1440 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.570692,-73.0258228
+90098,018301990020,1430 North Main St,Waterbury,1430 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5705528,-73.0257999
+90108,018301990021,1420 North Main St,Waterbury,1420 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5703983,-73.0258308
+90178,018301990028,1348 North Main St,Waterbury,1348 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5693243,-73.0256332
+90198,018301990030,1318 North Main St,Waterbury,1318 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5690027,-73.0257249
+90258,018302090005,1309 North Main St,Waterbury,1309 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5690431,-73.0260955
+90268,018302090006,1351 North Main St,Waterbury,1351 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5693631,-73.0263014
+90278,018302090007,1363 North Main St,Waterbury,1363 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5695573,-73.0267739
+90288,018302090008,1389 North Main St,Waterbury,1389 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5698902,-73.0261859
+90298,018302090009,1407 North Main St,Waterbury,1407 North Main St Waterbury Connecticut,Connecticut,Lead,Multi-Family Residence,Ct1510011,Waterbury Water Department,41.5702072,-73.0261905
+90308,018302090010,1425 North Main St,Waterbury,1425 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5704246,-73.0262458
+90318,018302090011,1439 North Main St,Waterbury,1439 North Main St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5705808,-73.026544
+90338,018302090013,1485 North Main St,Waterbury,1485 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5712536,-73.026323
+90368,018302090071,1383 North Main St,Waterbury,1383 North Main St Waterbury Connecticut,Connecticut,Lead,"Nonresidential, Non-School, Non-Daycare",Ct1510011,Waterbury Water Department,41.5698498,-73.0266848
+9948,005509830009,188 Downes St,Waterbury,188 Downes St Waterbury Connecticut,Connecticut,Lead,Single-Family Residence,Ct1510011,Waterbury Water Department,41.5961534,-73.0509647
