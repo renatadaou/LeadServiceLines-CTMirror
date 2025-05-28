@@ -1,0 +1,953 @@
+﻿SITE ID,LOCATION IDENTIFIER,STREET ADDRESS,TOWN,merged address,STATE,ENTIRE SERVICE LINE MATERIAL CLASSIFICATION,BUILDING TYPE,PWSID,SYSTEM NAME
+102148,020001860079,120 EASTON AVE,Waterbury,120 EASTON AVE Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+102618,020002060033,107 PLATT ST,Waterbury,107 PLATT ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+103178,020002110064,1089 NORTH MAIN ST,Waterbury,1089 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+103188,020002110066,1063 NORTH MAIN ST,Waterbury,1063 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+103208,020002110068,1043 NORTH MAIN ST,Waterbury,1043 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+103218,020002110069,1027 NORTH MAIN ST,Waterbury,1027 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+103368,020002120057,212 EASTON AVE,Waterbury,212 EASTON AVE Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+103428,020002130056,213 EASTON AVE,Waterbury,213 EASTON AVE Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+103478,020101990031,1208 NORTH MAIN ST,Waterbury,1208 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+103488,020101990032,1214 NORTH MAIN ST,Waterbury,1214 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+103518,020101990035,1248 NORTH MAIN ST,Waterbury,1248 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+103528,020101990036,1254 NORTH MAIN ST,Waterbury,1254 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+103548,020101990038,1298 NORTH MAIN ST,Waterbury,1298 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+103558,020101990039,1306 NORTH MAIN ST,Waterbury,1306 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+103588,020101990300,1184 NORTH MAIN ST,Waterbury,1184 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+103608,020101990361,1268 NORTH MAIN ST,Waterbury,1268 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+103818,020102120021,1181 NORTH MAIN ST,Waterbury,1181 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+103958,020102130013,1239 NORTH MAIN ST,Waterbury,1239 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+109878,021205240020,148 REVERE ST EXT,Waterbury,148 REVERE ST EXT Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+109898,021205240022,112 REVERE ST EXT,Waterbury,112 REVERE ST EXT Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+109998,021205250018,147 REVERE ST EXT,Waterbury,147 REVERE ST EXT Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+116578,021801660158,810 NORTH MAIN ST,Waterbury,810 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+116588,021801660159,790 NORTH MAIN ST,Waterbury,790 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+116598,021801660160,782 NORTH MAIN ST,Waterbury,782 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+116738,021801790045,739 NORTH MAIN ST,Waterbury,739 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+11678,006002390015,2846 NORTH MAIN ST,Waterbury,2846 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+11688,006002390016,2852 NORTH MAIN ST,Waterbury,2852 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+116908,021801800151,858 NORTH MAIN ST,Waterbury,858 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+117028,021801840060,767 NORTH MAIN ST,Waterbury,767 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+117048,021801840062,799 NORTH MAIN ST,Waterbury,799 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+117068,021801840064,817 NORTH MAIN ST,Waterbury,817 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+117248,021801850082,839 NORTH MAIN ST,Waterbury,839 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+117278,021801850085,875 NORTH MAIN ST,Waterbury,875 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+117288,021801850086,885 NORTH MAIN ST,Waterbury,885 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+117308,021801850088,907 NORTH MAIN ST,Waterbury,907 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+117388,021801860096,116 EASTON AVE,Waterbury,116 EASTON AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+117468,021801860104,963 NORTH MAIN ST,Waterbury,963 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+117488,021801860106,975 NORTH MAIN ST,Waterbury,975 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+117498,021801860107,981 NORTH MAIN ST,Waterbury,981 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+117868,021801890034,109 EASTON AVE,Waterbury,109 EASTON AVE Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+117918,021801900121,958 NORTH MAIN ST,Waterbury,958 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+117928,021801900122,954 NORTH MAIN ST,Waterbury,954 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+117958,021801900125,920 NORTH MAIN ST,Waterbury,920 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+117968,021801900126,910 NORTH MAIN ST,Waterbury,910 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+117978,021801900127,898 NORTH MAIN ST,Waterbury,898 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+118118,021801910112,1002 NORTH MAIN ST,Waterbury,1002 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+12188,006002540004,2855 NORTH MAIN ST,Waterbury,2855 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+12198,006002540005,2861 NORTH MAIN ST,Waterbury,2861 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+12208,006002540006,2869 NORTH MAIN ST,Waterbury,2869 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+12218,006002540007,2877 NORTH MAIN ST,Waterbury,2877 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+12228,006002540008,2881 NORTH MAIN ST,Waterbury,2881 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+12308,006002540122,2917 NORTH MAIN ST,Waterbury,2917 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+12318,006002540123,2925 NORTH MAIN ST,Waterbury,2925 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+124478,023105260049,131 REVERE ST EXT,Waterbury,131 REVERE ST EXT Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+124518,023105260053,111 REVERE ST,Waterbury,111 REVERE ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+129648,023601651251,549 NORTH MAIN ST,Waterbury,549 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+131008,023601760172,32 HAWKINS ST,Waterbury,32 HAWKINS ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+131028,023601760174,10 - 12 PEARL ST,Waterbury,10 - 12 PEARL ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+131048,023601760176,18 PEARL ST,Waterbury,18 PEARL ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+131058,023601760177,22 PEARL ST,Waterbury,22 PEARL ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+131068,023601760178,28 PEARL ST,Waterbury,28 PEARL ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+131258,023601770171,28 HAWKINS ST,Waterbury,28 HAWKINS ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+140338,025200240002,618 WEST MAIN ST,Waterbury,618 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+140368,027400070001,21 WEST MAIN ST,Waterbury,21 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+140518,025200670009,640 WEST MAIN ST,Waterbury,640 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+141078,025300540073,380 WEST MAIN ST,Waterbury,380 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+141118,025300540077,428 WEST MAIN ST,Waterbury,428 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+141498,025300560096,478 WEST MAIN ST,Waterbury,478 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+141508,025300560097,466 WEST MAIN ST,Waterbury,466 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+141518,025300560098,460 WEST MAIN ST,Waterbury,460 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+141528,025300560099,450 WEST MAIN ST,Waterbury,450 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+141588,025300570094,496 WEST MAIN ST,Waterbury,496 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+141598,025300570095,490 WEST MAIN ST,Waterbury,490 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+142298,025400020531,171 NORTH MAIN ST,Waterbury,171 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+143738,025501640079,24 ADAMS ST,Waterbury,24 ADAMS ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+143928,025501660147,474 NORTH MAIN ST,Waterbury,474 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+143948,025501660149,496 NORTH MAIN ST,Waterbury,496 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+146358,025705530132,71 OAK ST,Waterbury,71 OAK ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+147778,025705790133,72 OAK ST,Waterbury,72 OAK ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+147788,025705790134,68 OAK ST,Waterbury,68 OAK ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+148248,025705790180,76 OAK ST,Waterbury,76 OAK ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+148258,025705790181,80 OAK ST,Waterbury,80 OAK ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+148268,025705800204,106 OAK ST,Waterbury,106 OAK ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+148278,025705800205,104 OAK ST,Waterbury,104 OAK ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+148288,025705800206,102 OAK ST,Waterbury,102 OAK ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+148308,025705800208,98 OAK ST,Waterbury,98 OAK ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+148338,025705800211,92 OAK ST,Waterbury,92 OAK ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+148348,025705800212,90 OAK ST,Waterbury,90 OAK ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+148358,025705800213,88 OAK ST,Waterbury,88 OAK ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+148368,025705800214,86 OAK ST,Waterbury,86 OAK ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+149048,025705830280,121 OAK ST,Waterbury,121 OAK ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+149058,025705830281,113 OAK ST,Waterbury,113 OAK ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+149068,025705830282,101 OAK ST,Waterbury,101 OAK ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+149078,025705830283,95 OAK ST,Waterbury,95 OAK ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+149138,025705830289,152 BEECH ST,Waterbury,152 BEECH ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+149158,025705832891,50 ASH ST,Waterbury,50 ASH ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+149968,025805840001,157 BEECH ST,Waterbury,157 BEECH ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+149978,025805840002,151 BEECH ST,Waterbury,151 BEECH ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+149988,025805840003,139 BEECH ST,Waterbury,139 BEECH ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+155978,027100250088,990 WEST MAIN ST,Waterbury,990 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+156128,027100260017,1050 WEST MAIN ST,Waterbury,1050 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+157128,027200220023,649 WEST MAIN ST,Waterbury,649 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+157168,027200240012,718 WEST MAIN ST,Waterbury,718 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+157308,027300170038,283 WEST MAIN ST,Waterbury,283 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+157398,027300180031,389 MEADOW ST,Waterbury,389 MEADOW ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+157788,027400020025,95 NORTH MAIN ST,Waterbury,95 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+157818,027400020029,161 NORTH MAIN ST,Waterbury,161 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+157838,027400030010,130 WEST MAIN ST,Waterbury,130 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+158078,027400070061,41 WEST MAIN ST,Waterbury,41 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+158358,027400140048,26 NORTH MAIN ST,Waterbury,26 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+158488,027400150041,99 EAST MAIN ST,Waterbury,99 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+161578,027700960165,224 OAK ST,Waterbury,224 OAK ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+161628,027700960170,220 OAK ST,Waterbury,220 OAK ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+161658,027700970172,213 OAK ST,Waterbury,213 OAK ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+161668,027700970173,209 OAK ST,Waterbury,209 OAK ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+16208,006902390003,2840 NORTH MAIN ST,Waterbury,2840 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+16218,006902390004,2834 NORTH MAIN ST,Waterbury,2834 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+16228,006902390005,2828 NORTH MAIN ST,Waterbury,2828 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+16238,006902390006,2822 NORTH MAIN ST,Waterbury,2822 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+162428,027705820124,190 OAK ST,Waterbury,190 OAK ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+162438,027705820125,178 OAK ST,Waterbury,178 OAK ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+162448,027705820126,170 OAK ST,Waterbury,170 OAK ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+162458,027705820127,166 OAK ST,Waterbury,166 OAK ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+162478,027705820129,158 OAK ST,Waterbury,158 OAK ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+162488,027705820130,154 OAK ST,Waterbury,154 OAK ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+16248,006902390007,2812 NORTH MAIN ST,Waterbury,2812 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+162498,027705820131,150 OAK ST,Waterbury,150 OAK ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+162508,027705820132,144 OAK ST,Waterbury,144 OAK ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+162518,027705820133,138 OAK ST,Waterbury,138 OAK ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+162538,027705820135,122 OAK ST,Waterbury,122 OAK ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+162718,027705830138,143 OAK ST,Waterbury,143 OAK ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+162738,027705830140,151 OAK ST,Waterbury,151 OAK ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+162748,027705830141,155 OAK ST,Waterbury,155 OAK ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+162758,027705830142,161 OAK ST,Waterbury,161 OAK ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+162788,027705830146,172 BEECH ST,Waterbury,172 BEECH ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+16278,006902530001,2817 NORTH MAIN ST,Waterbury,2817 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+162798,027705830147,178 BEECH ST,Waterbury,178 BEECH ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+162808,027705830148,184 BEECH ST,Waterbury,184 BEECH ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+162858,027705831451,156 BEECH ST,Waterbury,156 BEECH ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+163408,027706030162,191 OAK ST,Waterbury,191 OAK ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+163568,027805840014,185 BEECH ST,Waterbury,185 BEECH ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+163578,027805840015,175 BEECH ST,Waterbury,175 BEECH ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+163588,027805840016,163 BEECH ST,Waterbury,163 BEECH ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+17478,007509850017,17 ASHFORD ST,Waterbury,17 ASHFORD ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+17488,007509850018,19 ASHFORD ST,Waterbury,19 ASHFORD ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+175198,029000420092,1201 WEST MAIN ST,Waterbury,1201 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+175208,029000420093,1243 WEST MAIN ST,Waterbury,1243 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+175238,029000430076,1157 WEST MAIN ST,Waterbury,1157 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+175248,029000430077,1163 WEST MAIN ST,Waterbury,1163 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+175258,029000430078,1167 WEST MAIN ST,Waterbury,1167 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+175268,029000430079,1171 WEST MAIN ST,Waterbury,1171 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+17548,007509850024,35 HARVARD ST,Waterbury,35 HARVARD ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+177148,029400120103,115 SOUTH MAIN ST,Waterbury,115 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+177258,039203000001,952 SOUTH MAIN ST,Waterbury,952 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+178018,029500130003,122 EAST MAIN ST,Waterbury,122 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+17808,007609850003,67 HARVARD ST,Waterbury,67 HARVARD ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+178118,029500710068,351 EAST MAIN ST,Waterbury,351 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+178128,029500710069,337 EAST MAIN ST,Waterbury,337 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+178138,029500710070,325 EAST MAIN ST,Waterbury,325 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+178148,029500710071,309 EAST MAIN ST,Waterbury,309 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+178198,029500720062,407 EAST MAIN ST,Waterbury,407 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+178208,029500720063,391 EAST MAIN ST,Waterbury,391 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+178218,029500720064,379 EAST MAIN ST,Waterbury,379 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+178278,029500730042,290 EAST MAIN ST,Waterbury,290 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+178328,029500730421,278 EAST MAIN ST,Waterbury,278 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+178748,029500790601,402 EAST MAIN ST,Waterbury,402 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+178768,029600720001,421 EAST MAIN ST,Waterbury,421 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+178788,029600720003,449 EAST MAIN ST,Waterbury,449 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+178938,029600890019,523 EAST MAIN ST,Waterbury,523 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+179178,029600900039,589 EAST MAIN ST,Waterbury,589 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+179188,029600900040,593 EAST MAIN ST,Waterbury,593 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+179208,029600900042,611 EAST MAIN ST,Waterbury,611 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+179418,029600910061,675 EAST MAIN ST,Waterbury,675 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+179428,029600910062,687 EAST MAIN ST,Waterbury,687 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+179438,029600910063,693 EAST MAIN ST,Waterbury,693 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+179738,029600930093,666 EAST MAIN ST,Waterbury,666 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+179748,029600930095,648 EAST MAIN ST,Waterbury,648 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+179758,029600930096,638 EAST MAIN ST,Waterbury,638 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+179778,029600930098,574 EAST MAIN ST,Waterbury,574 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+179788,029600930951,642 EAST MAIN ST,Waterbury,642 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+180538,029700810141,334 OAK ST,Waterbury,334 OAK ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+180548,029700810142,340 OAK ST,Waterbury,340 OAK ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+180638,029700930032,758 EAST MAIN ST,Waterbury,758 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+180648,029700930033,770 EAST MAIN ST,Waterbury,770 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+180668,029700930035,804 EAST MAIN ST,Waterbury,804 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+180678,029700930036,810 EAST MAIN ST,Waterbury,810 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+180698,029700930351,786 EAST MAIN ST,Waterbury,786 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+180708,029700930352,794 EAST MAIN ST,Waterbury,794 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+180918,029700950118,300 OAK ST,Waterbury,300 OAK ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+180938,029700950120,304 OAK ST,Waterbury,304 OAK ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+181058,029700960089,228 OAK ST,Waterbury,228 OAK ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+181068,029700960090,232 OAK ST,Waterbury,232 OAK ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+181128,029700960931,248 OAK ST,Waterbury,248 OAK ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+181138,029700970095,225 OAK ST,Waterbury,225 OAK ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+181148,029700970096,235 OAK ST,Waterbury,235 OAK ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+181158,029700970097,245 OAK ST,Waterbury,245 OAK ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+181168,029700970098,255 OAK ST,Waterbury,255 OAK ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+181178,029700970099,265 OAK ST,Waterbury,265 OAK ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+181188,029700970100,279 OAK ST,Waterbury,279 OAK ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+181198,029700970101,273 OAK ST,Waterbury,273 OAK ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+181248,029700970971,241 OAK ST,Waterbury,241 OAK ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+181318,029700980109,291 OAK ST,Waterbury,291 OAK ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+181328,029700980110,299 OAK ST,Waterbury,299 OAK ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+181348,029700980112,317 OAK ST,Waterbury,317 OAK ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+181368,029700980114,329 OAK ST,Waterbury,329 OAK ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+181378,029700980115,333 OAK ST,Waterbury,333 OAK ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+181408,029700981081,4 SOUTH OAK ST,Waterbury,4 SOUTH OAK ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+181428,029700981101,301 OAK ST,Waterbury,301 OAK ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+181448,029800980002,339 OAK ST,Waterbury,339 OAK ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+186778,030203710030,26 MILL PLAIN AVE,Waterbury,26 MILL PLAIN AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+190178,030504010068,205 CELIA DR,Waterbury,205 CELIA DR Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+190188,030504010069,215 CELIA DR,Waterbury,215 CELIA DR Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+190198,030504010070,223 CELIA DR,Waterbury,223 CELIA DR Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+19228,007802410070,2719 NORTH MAIN ST,Waterbury,2719 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+19238,007802410071,2731 NORTH MAIN ST,Waterbury,2731 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+194508,031400650008,1460 WEST MAIN ST,Waterbury,1460 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+194908,031400650612,26 ANDREW LN,Waterbury,26 ANDREW LN Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+194918,031400650621,28 ANDREW LN,Waterbury,28 ANDREW LN Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+195488,031500440261,26 QUINSIGAMOND AVE,Waterbury,26 QUINSIGAMOND AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+195648,031500450331,25 QUINSIGAMOND AVE,Waterbury,25 QUINSIGAMOND AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+195718,031500461312,1312 WEST MAIN ST,Waterbury,1312 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+195758,031500460012,1374 WEST MAIN ST,Waterbury,1374 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+195768,031500460013,1376 WEST MAIN ST,Waterbury,1376 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+19668,007802490069,2635 NORTH MAIN ST,Waterbury,2635 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+197188,032200810042,362 OAK ST,Waterbury,362 OAK ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+197198,032200810043,348 OAK ST,Waterbury,348 OAK ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+197278,032200930003,1108 EAST MAIN ST,Waterbury,1108 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+197298,032200930005,1130 EAST MAIN ST,Waterbury,1130 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+197318,032200940008,1119 EAST MAIN ST,Waterbury,1119 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+197328,032200940009,1109 EAST MAIN ST,Waterbury,1109 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+197338,032200940010,1101 EAST MAIN ST,Waterbury,1101 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+197358,032200940012,1083 EAST MAIN ST,Waterbury,1083 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+197368,032200940013,1073 EAST MAIN ST,Waterbury,1073 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+197378,032200940014,1065 EAST MAIN ST,Waterbury,1065 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+197388,032200940015,1057 EAST MAIN ST,Waterbury,1057 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+197398,032200940017,993 EAST MAIN ST,Waterbury,993 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+197408,032200940018,981 EAST MAIN ST,Waterbury,981 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+197418,032200940019,961 EAST MAIN ST,Waterbury,961 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+197428,032200940020,951 EAST MAIN ST,Waterbury,951 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+197438,032200940021,935 EAST MAIN ST,Waterbury,935 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+197448,032200940022,921 EAST MAIN ST,Waterbury,921 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+197468,032200940024,891 EAST MAIN ST,Waterbury,891 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+198288,032300980004,359 OAK ST,Waterbury,359 OAK ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+198298,032300980005,371 OAK ST,Waterbury,371 OAK ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+198488,032300980051,365 OAK ST,Waterbury,365 OAK ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+207518,033900460007,1392 WEST MAIN ST,Waterbury,1392 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+207528,033900460008,1404 WEST MAIN ST,Waterbury,1404 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+211098,034502790002,478 SOUTH MAIN ST,Waterbury,478 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+211108,034502790003,490 SOUTH MAIN ST,Waterbury,490 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+211138,034502790011,472 SOUTH MAIN ST,Waterbury,472 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+212228,034502930016,653 SOUTH MAIN ST,Waterbury,653 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+213688,034800940008,1241 EAST MAIN ST,Waterbury,1241 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+213708,034800940010,1255 EAST MAIN ST,Waterbury,1255 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+213848,034800990056,1260 EAST MAIN ST,Waterbury,1260 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+213858,034800990057,1268 EAST MAIN ST,Waterbury,1268 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+213868,034800990058,1278 EAST MAIN ST,Waterbury,1278 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+213878,034800990059,1286 EAST MAIN ST,Waterbury,1286 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+213898,034800990061,1308 EAST MAIN ST,Waterbury,1308 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+213918,034800990541,1250 EAST MAIN ST,Waterbury,1250 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+213998,034801010023,1295 EAST MAIN ST,Waterbury,1295 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+214008,034801010024,1305 EAST MAIN ST,Waterbury,1305 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+214058,034801010030,1417 EAST MAIN ST,Waterbury,1417 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+214098,034801010241,1309 EAST MAIN ST,Waterbury,1309 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+215318,034903500051,67 WOODWARD AVE,Waterbury,67 WOODWARD AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+215328,034903500052,61 WOODWARD AVE,Waterbury,61 WOODWARD AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+215338,034903500053,47 WOODWARD AVE,Waterbury,47 WOODWARD AVE Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+215358,034903500055,35 WOODWARD AVE,Waterbury,35 WOODWARD AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+215368,034903500056,29 WOODWARD AVE,Waterbury,29 WOODWARD AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+215378,034903500057,23 WOODWARD AVE,Waterbury,23 WOODWARD AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+215488,034903500068,48 HUNGERFORD AVE,Waterbury,48 HUNGERFORD AVE Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+215498,034903500069,52 HUNGERFORD AVE,Waterbury,52 HUNGERFORD AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+215508,034903500070,60 HUNGERFORD AVE,Waterbury,60 HUNGERFORD AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+215528,034903500072,79 WOODWARD AVE,Waterbury,79 WOODWARD AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+215558,034903500531,55 WOODWARD AVE,Waterbury,55 WOODWARD AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+215578,034903500671,34 HUNGERFORD AVE,Waterbury,34 HUNGERFORD AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+215658,034903510102,47 HUNGERFORD AVE,Waterbury,47 HUNGERFORD AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+215668,034903510103,41 HUNGERFORD AVE,Waterbury,41 HUNGERFORD AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+215678,034903510104,33 HUNGERFORD AVE,Waterbury,33 HUNGERFORD AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+220338,035301430047,151 MIDLAND RD,Waterbury,151 MIDLAND RD Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+220398,035301430472,159 MIDLAND RD,Waterbury,159 MIDLAND RD Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+221318,035304590491,160 MIDLAND RD,Waterbury,160 MIDLAND RD Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+221328,035304590492,152 MIDLAND RD,Waterbury,152 MIDLAND RD Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+233188,036902930005,685 SOUTH MAIN ST,Waterbury,685 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+233198,036902930006,701 SOUTH MAIN ST,Waterbury,701 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+233218,036902930008,725 SOUTH MAIN ST,Waterbury,725 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+234658,037201020004,1485 EAST MAIN ST,Waterbury,1485 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+234798,037301050006,1615 EAST MAIN ST,Waterbury,1615 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+234808,037301050007,1623 EAST MAIN ST,Waterbury,1623 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+234818,037301050008,1631 EAST MAIN ST,Waterbury,1631 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+234918,037301060018,1649 EAST MAIN ST,Waterbury,1649 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+234928,037301060019,1663 EAST MAIN ST,Waterbury,1663 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+235038,037301060030,1705 EAST MAIN ST,Waterbury,1705 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+235258,037301070048,1761 EAST MAIN ST,Waterbury,1761 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+235268,037301070049,1765 EAST MAIN ST,Waterbury,1765 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+235288,037301070051,1785 EAST MAIN ST,Waterbury,1785 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+235298,037301070052,1795 EAST MAIN ST,Waterbury,1795 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+235528,037301080077,1833 EAST MAIN ST,Waterbury,1833 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+235538,037301080078,1853 EAST MAIN ST,Waterbury,1853 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+235548,037301080079,1863 EAST MAIN ST,Waterbury,1863 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+235658,037301090116,1716 EAST MAIN ST,Waterbury,1716 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+235678,037301090118,1650 EAST MAIN ST,Waterbury,1650 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+235778,037301091171,1714 EAST MAIN ST,Waterbury,1714 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+235798,037201040003,0 IDYLWOOD AVE SPRPL,Waterbury,0 IDYLWOOD AVE SPRPL Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+235838,037301110082,1880 EAST MAIN ST,Waterbury,1880 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+236228,037401080035,1893 EAST MAIN ST,Waterbury,1893 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+236238,037401080036,1881 EAST MAIN ST,Waterbury,1881 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+236248,037401080037,1869 EAST MAIN ST,Waterbury,1869 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+236258,037401110038,1892 EAST MAIN ST,Waterbury,1892 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+238088,037501340101,2271 EAST MAIN ST,Waterbury,2271 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+238258,037501341011,2273 EAST MAIN ST,Waterbury,2273 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+238598,037601340029,33 PLEASANT VIEW AVE,Waterbury,33 PLEASANT VIEW AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+239358,037701430078,2901 EAST MAIN ST,Waterbury,2901 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+239368,037701430079,2909 EAST MAIN ST,Waterbury,2909 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+239508,037701450002,32 PLEASANT VIEW AVE,Waterbury,32 PLEASANT VIEW AVE Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+240458,037801430032,2929 EAST MAIN ST,Waterbury,2929 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+240548,037801490021,270 DECICCO RD,Waterbury,270 DECICCO RD Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+240588,037801490022,282 DECICCO RD,Waterbury,282 DECICCO RD Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+240598,037801490023,3083 EAST MAIN ST,Waterbury,3083 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+240608,037801490024,3081 EAST MAIN ST,Waterbury,3081 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+240618,037801490025,3065 EAST MAIN ST,Waterbury,3065 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+240638,037801490027,3005 EAST MAIN ST,Waterbury,3005 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+240698,037801490211,94 HILLHOUSE RD,Waterbury,94 HILLHOUSE RD Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+240868,037801520042,3091 EAST MAIN ST,Waterbury,3091 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+240878,037801520043,3127 EAST MAIN ST,Waterbury,3127 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+240888,037801520044,3137 EAST MAIN ST,Waterbury,3137 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+240898,037901370015,3156 EAST MAIN ST,Waterbury,3156 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+240908,037901370016,3164 EAST MAIN ST,Waterbury,3164 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+240918,037901370017,3172 EAST MAIN ST,Waterbury,3172 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+240938,037901370019,3200 EAST MAIN ST,Waterbury,3200 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+240958,037901370021,3280 EAST MAIN ST,Waterbury,3280 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+241008,037901520001,3155 EAST MAIN ST,Waterbury,3155 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+241848,037901530051,3185 EAST MAIN ST,Waterbury,3185 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+241938,037901540313,3363 EAST MAIN ST,Waterbury,3363 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+248778,039203000002,978 SOUTH MAIN ST,Waterbury,978 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+248808,039203000006,1004 SOUTH MAIN ST,Waterbury,1004 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+248818,039203000007,1014 SOUTH MAIN ST,Waterbury,1014 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+248898,039203010019,999 SOUTH MAIN ST,Waterbury,999 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+248908,039203010020,991 SOUTH MAIN ST,Waterbury,991 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+248938,039203010024,945 SOUTH MAIN ST,Waterbury,945 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+248948,039203010025,935 SOUTH MAIN ST,Waterbury,935 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+248958,039203010026,923 SOUTH MAIN ST,Waterbury,923 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+248968,039203010027,915 SOUTH MAIN ST,Waterbury,915 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+248978,039203010028,911 SOUTH MAIN ST,Waterbury,911 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+249058,039203010024,945 SOUTH MAIN ST,Waterbury,945 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+252358,039701120009,1942 EAST MAIN ST,Waterbury,1942 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+252368,039701120010,1946 EAST MAIN ST,Waterbury,1946 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+252908,039701150064,2024 EAST MAIN ST,Waterbury,2024 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+253028,039701170075,2094 EAST MAIN ST,Waterbury,2094 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+253038,039701170076,2104 EAST MAIN ST,Waterbury,2104 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+253048,039701170077,2152 EAST MAIN ST,Waterbury,2152 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+253198,039701170781,2154 EAST MAIN ST,Waterbury,2154 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+253228,039701200651,2171 EAST MAIN ST,Waterbury,2171 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+253248,039801170005,2444 EAST MAIN ST,Waterbury,2444 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+253258,039801170006,2462 EAST MAIN ST,Waterbury,2462 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+253268,039801200001,2247 EAST MAIN ST,Waterbury,2247 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+253278,039801170002,2309 EAST MAIN ST,Waterbury,2309 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+253288,039801340004,2457 EAST MAIN ST 1,Waterbury,2457 EAST MAIN ST 1 Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+253298,039901170026,2472 EAST MAIN ST,Waterbury,2472 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+253308,039901170027,2500 EAST MAIN ST,Waterbury,2500 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+254598,040001370050,2714 EAST MAIN ST,Waterbury,2714 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+254918,040001390021,2715 EAST MAIN ST,Waterbury,2715 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+254928,040001390022,2725 EAST MAIN ST,Waterbury,2725 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+254938,040001390023,2735 EAST MAIN ST,Waterbury,2735 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+254968,040001390231,2743 EAST MAIN ST,Waterbury,2743 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+255128,040001400042,2807 EAST MAIN ST,Waterbury,2807 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+255138,040001400043,2791 EAST MAIN ST,Waterbury,2791 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+255148,040001400044,2781 EAST MAIN ST,Waterbury,2781 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+255168,040001400046,2773 EAST MAIN ST,Waterbury,2773 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+255178,040001400047,2763 EAST MAIN ST,Waterbury,2763 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+255188,040001400361,2815 EAST MAIN ST,Waterbury,2815 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+255558,040001430060,2893 EAST MAIN ST,Waterbury,2893 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+25648,009102410052,2537 NORTH MAIN ST,Waterbury,2537 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+25658,009102410053,2529 NORTH MAIN ST,Waterbury,2529 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+25678,009102410432,2561 NORTH MAIN ST,Waterbury,2561 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+257828,040201550023,3396 EAST MAIN ST,Waterbury,3396 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+257848,040301540001,3429 EAST MAIN ST,Waterbury,3429 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+257858,040301540002,3437 EAST MAIN ST,Waterbury,3437 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+257888,040301550005,3436 EAST MAIN ST,Waterbury,3436 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+257948,040401560007,3584 EAST MAIN ST,Waterbury,3584 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+258188,040401560007,3584 EAST MAIN ST,Waterbury,3584 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+258228,040401560061,3580 EAST MAIN ST,Waterbury,3580 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+258248,040401560612,3600 EAST MAIN ST,Waterbury,3600 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+25968,009102490033,2601 NORTH MAIN ST,Waterbury,2601 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+25978,009102490034,2603 NORTH MAIN ST,Waterbury,2603 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+25988,009102490054,2629 NORTH MAIN ST,Waterbury,2629 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+262298,041210420056,134 SEYMOUR ST,Waterbury,134 SEYMOUR ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+262308,041210420057,6 FRANCIS ST,Waterbury,6 FRANCIS ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+262318,041210420058,150 SEYMOUR ST,Waterbury,150 SEYMOUR ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+262388,041210420521,3 FRANCIS ST,Waterbury,3 FRANCIS ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+264598,041503000122,1298 SOUTH MAIN ST,Waterbury,1298 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+264638,041503000126,1140 SOUTH MAIN ST,Waterbury,1140 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+264648,041503000127,1106 SOUTH MAIN ST,Waterbury,1106 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+265178,041503070048,1077 SOUTH MAIN ST,Waterbury,1077 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+265188,041503070049,1085 SOUTH MAIN ST,Waterbury,1085 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+265198,041503070050,1093 SOUTH MAIN ST,Waterbury,1093 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+265218,041503070052,1121 SOUTH MAIN ST,Waterbury,1121 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+265238,041503070055,1139 SOUTH MAIN ST,Waterbury,1139 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+265248,041503070056,1175 SOUTH MAIN ST,Waterbury,1175 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+268688,042001040001,162 PLANK RD,Waterbury,162 PLANK RD Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+269308,042201360020,2558 EAST MAIN ST,Waterbury,2558 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+269318,042201360021,2548 EAST MAIN ST,Waterbury,2548 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+269328,042201360022,2538 EAST MAIN ST,Waterbury,2538 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+269338,042201360022,2528 EAST MAIN ST,Waterbury,2528 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+269348,042201360024,2518 EAST MAIN ST,Waterbury,2518 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+269488,042201360201,2574 EAST MAIN ST,Waterbury,2574 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+277308,043803150011,1309 SOUTH MAIN ST,Waterbury,1309 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+277808,043803210044,1355 SOUTH MAIN ST,Waterbury,1355 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+277828,043803210046,1405 SOUTH MAIN ST,Waterbury,1405 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+277848,043803210048,1449 SOUTH MAIN ST,Waterbury,1449 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+277888,043803210481,1465 SOUTH MAIN ST,Waterbury,1465 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+279798,044004680041,34 PROCTOR ST,Waterbury,34 PROCTOR ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+279808,044004680042,46 PROCTOR ST,Waterbury,46 PROCTOR ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+280608,044004940043,45 PROCTOR ST,Waterbury,45 PROCTOR ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+280618,044004940044,41 PROCTOR ST,Waterbury,41 PROCTOR ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+280628,044004940045,33 PROCTOR ST,Waterbury,33 PROCTOR ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+280638,044004940046,27 PROCTOR ST,Waterbury,27 PROCTOR ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+282718,044205010011,69 PROSPECT RD,Waterbury,69 PROSPECT RD Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+282728,044205010012,111 PROSPECT RD,Waterbury,111 PROSPECT RD Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+288728,045710940056,40 HEWEY ST,Waterbury,40 HEWEY ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+291958,046103210006,1501 SOUTH MAIN ST,Waterbury,1501 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+291968,046103210007,1515 SOUTH MAIN ST,Waterbury,1515 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+291978,046103210008,1567 SOUTH MAIN ST,Waterbury,1567 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+291998,046103210010,1589 SOUTH MAIN ST,Waterbury,1589 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+292548,046103260013,1635 SOUTH MAIN ST,Waterbury,1635 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+294238,046305080054,44 BARDEN ST,Waterbury,44 BARDEN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+294258,046305080056,37 LOWLAND AVE,Waterbury,37 LOWLAND AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+294298,046305090057,37 BARDEN ST,Waterbury,37 BARDEN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+294318,046305090060,9 BARDEN ST,Waterbury,9 BARDEN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+294458,046305090711,95 CLOVER ST,Waterbury,95 CLOVER ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+299508,047810940053,46 HEWEY ST,Waterbury,46 HEWEY ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+299528,047810940055,60 HEWEY ST,Waterbury,60 HEWEY ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+299538,047810940056,64 HEWEY ST,Waterbury,64 HEWEY ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+299548,047810940057,72 HEWEY ST,Waterbury,72 HEWEY ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+299558,047810940058,78 HEWEY ST,Waterbury,78 HEWEY ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+304048,048203320003,1759 SOUTH MAIN ST,Waterbury,1759 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+304058,048203320004,1765 SOUTH MAIN ST,Waterbury,1765 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+304078,048203320008,1867 SOUTH MAIN ST,Waterbury,1867 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+304088,048203320009,1869 SOUTH MAIN ST,Waterbury,1869 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+307638,048704880019,1521 HAMILTON AVE,Waterbury,1521 HAMILTON AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+307678,048704880141,1525 HAMILTON AVE,Waterbury,1525 HAMILTON AVE Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+314348,050203320005,2089 SOUTH MAIN ST,Waterbury,2089 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+314368,050203320007,2085 SOUTH MAIN ST,Waterbury,2085 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+314378,050203320008,2067 SOUTH MAIN ST,Waterbury,2067 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+314388,050203320009,2019 SOUTH MAIN ST,Waterbury,2019 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+314398,050203320010,1999 SOUTH MAIN ST,Waterbury,1999 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+314408,050203320011,1975 SOUTH MAIN ST,Waterbury,1975 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+314458,050203330004,2060 SOUTH MAIN ST,Waterbury,2060 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+314468,050203330041,2050 SOUTH MAIN ST,Waterbury,2050 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+314478,050203330042,2098 SOUTH MAIN ST,Waterbury,2098 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+323208,051903320004,2095 SOUTH MAIN ST,Waterbury,2095 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+323228,051903330041,2148 SOUTH MAIN ST,Waterbury,2148 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+323248,051903330411,2180 SOUTH MAIN ST,Waterbury,2180 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+323278,051903400011,2100 SOUTH MAIN ST,Waterbury,2100 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+32808,010402230075,2455 NORTH MAIN ST,Waterbury,2455 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+33008,010402400024,2497 NORTH MAIN ST,Waterbury,2497 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+33018,010402400025,2485 NORTH MAIN ST,Waterbury,2485 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+330498,053211270042,1360 HIGHLAND AVE,Waterbury,1360 HIGHLAND AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+330518,053211270044,1346 HIGHLAND AVE RIGHT,Waterbury,1346 HIGHLAND AVE RIGHT Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+33318,010402420048,2468 NORTH MAIN ST,Waterbury,2468 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+33338,010402420050,2428 NORTH MAIN ST,Waterbury,2428 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+334668,054611270001,1382 HIGHLAND AVE,Waterbury,1382 HIGHLAND AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+334678,054611270002,1390 HIGHLAND AVE,Waterbury,1390 HIGHLAND AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+334688,054611270004,1400 HIGHLAND AVE,Waterbury,1400 HIGHLAND AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+334698,054611270005,1406 HIGHLAND AVE,Waterbury,1406 HIGHLAND AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+334708,054611270006,1410 HIGHLAND AVE,Waterbury,1410 HIGHLAND AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+334718,054611270007,1422 HIGHLAND AVE,Waterbury,1422 HIGHLAND AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+334728,054611270008,1426 HIGHLAND AVE,Waterbury,1426 HIGHLAND AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+334748,054611270010,1438 HIGHLAND AVE,Waterbury,1438 HIGHLAND AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+334758,054611270011,1450 HIGHLAND AVE,Waterbury,1450 HIGHLAND AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+334908,054611790022,1435 HIGHLAND AVE,Waterbury,1435 HIGHLAND AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+334998,054611790031,1425 HIGHLAND AVE,Waterbury,1425 HIGHLAND AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+335038,054611800032,1413 HIGHLAND AVE,Waterbury,1413 HIGHLAND AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+335108,054611800039,1405 HIGHLAND AVE,Waterbury,1405 HIGHLAND AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+335368,054611810000000130013A,1385 HIGHLAND AVE 13A,Waterbury,1385 HIGHLAND AVE 13A Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+335378,054611810000000130013B,1385 HIGHLAND AVE 13B,Waterbury,1385 HIGHLAND AVE 13B Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+335608,054611810042,1357 HIGHLAND AVE,Waterbury,1357 HIGHLAND AVE Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+339008,055903470003,2636 SOUTH MAIN ST MOTEL,Waterbury,2636 SOUTH MAIN ST MOTEL Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+340058,023601770167,12 ADAMS ST EXT,Waterbury,12 ADAMS ST EXT Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+340068,023601770166,14 ADAMS ST EXT,Waterbury,14 ADAMS ST EXT Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+340078,023601770165,18 ADAMS ST EXT,Waterbury,18 ADAMS ST EXT Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+340088,023601770164,22 ADAMS ST EXT,Waterbury,22 ADAMS ST EXT Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+340098,025501630078,19 ADAMS ST,Waterbury,19 ADAMS ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+340108,023601770163,26 ADAMS ST EXT,Waterbury,26 ADAMS ST EXT Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+344378,030504040072,212 CELIA DR,Waterbury,212 CELIA DR Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+347008,013008890034,432 COLUMBIA BLVD,Waterbury,432 COLUMBIA BLVD Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+348718,005509830008,92 DOWNES ST,Waterbury,92 DOWNES ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+348728,005509830008,96 DOWNES ST,Waterbury,96 DOWNES ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+348778,005509830005,114 DOWNES ST,Waterbury,114 DOWNES ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+348788,005509830005,118 DOWNES ST,Waterbury,118 DOWNES ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+348858,005509830004,159 DOWNES ST,Waterbury,159 DOWNES ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+352698,016408250021,96 GREENWOOD AVE,Waterbury,96 GREENWOOD AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+353128,014902180010,133 HAMDEN AVE,Waterbury,133 HAMDEN AVE Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+353148,014902180011,147 HAMDEN AVE,Waterbury,147 HAMDEN AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+353458,027400070001,21 WEST MAIN ST,Waterbury,21 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+353468,041503000132,1114 SOUTH MAIN ST,Waterbury,1114 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+353948,053211270044,1346 HIGHLAND AVE LEFT,Waterbury,1346 HIGHLAND AVE LEFT Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+353988,054611810001,1385 HIGHLAND AVE 1A,Waterbury,1385 HIGHLAND AVE 1A Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+353998,054611810001,1385 HIGHLAND AVE 1B,Waterbury,1385 HIGHLAND AVE 1B Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354008,054611810010,1385 HIGHLAND AVE 10A,Waterbury,1385 HIGHLAND AVE 10A Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354018,054611810010,1385 HIGHLAND AVE 10B,Waterbury,1385 HIGHLAND AVE 10B Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354028,054611810011,1385 HIGHLAND AVE 11A,Waterbury,1385 HIGHLAND AVE 11A Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354038,054611810011,1385 HIGHLAND AVE 11B,Waterbury,1385 HIGHLAND AVE 11B Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354048,054611810012,1385 HIGHLAND AVE 12A,Waterbury,1385 HIGHLAND AVE 12A Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354058,054611810012,1385 HIGHLAND AVE 12B,Waterbury,1385 HIGHLAND AVE 12B Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354068,054611810014,1385 HIGHLAND AVE 14A,Waterbury,1385 HIGHLAND AVE 14A Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354078,054611810014,1385 HIGHLAND AVE 14B,Waterbury,1385 HIGHLAND AVE 14B Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354088,054611810015,1385 HIGHLAND AVE 15A,Waterbury,1385 HIGHLAND AVE 15A Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354098,054611810015,1385 HIGHLAND AVE 15B,Waterbury,1385 HIGHLAND AVE 15B Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354108,054611810016,1385 HIGHLAND AVE 16A,Waterbury,1385 HIGHLAND AVE 16A Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354118,054611810001,1385 HIGHLAND AVE 16B,Waterbury,1385 HIGHLAND AVE 16B Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354128,054611810016,1385 HIGHLAND AVE 17A,Waterbury,1385 HIGHLAND AVE 17A Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354138,054611810017,1385 HIGHLAND AVE 17B,Waterbury,1385 HIGHLAND AVE 17B Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354148,054611810018,1385 HIGHLAND AVE 18A,Waterbury,1385 HIGHLAND AVE 18A Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354158,054611810018,1385 HIGHLAND AVE 18B,Waterbury,1385 HIGHLAND AVE 18B Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354168,054611810019,1385 HIGHLAND AVE 19A,Waterbury,1385 HIGHLAND AVE 19A Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354178,054611810019,1385 HIGHLAND AVE 19B,Waterbury,1385 HIGHLAND AVE 19B Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354188,054611810002,1385 HIGHLAND AVE 2A,Waterbury,1385 HIGHLAND AVE 2A Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354198,054611810002,1385 HIGHLAND AVE 2B,Waterbury,1385 HIGHLAND AVE 2B Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354208,054611810020,1385 HIGHLAND AVE 20A,Waterbury,1385 HIGHLAND AVE 20A Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354218,054611810020,1385 HIGHLAND AVE 20B,Waterbury,1385 HIGHLAND AVE 20B Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354228,054611810021,1385 HIGHLAND AVE 21A,Waterbury,1385 HIGHLAND AVE 21A Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354238,054611810021,1385 HIGHLAND AVE 21B,Waterbury,1385 HIGHLAND AVE 21B Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354248,054611810022,1385 HIGHLAND AVE 22A,Waterbury,1385 HIGHLAND AVE 22A Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354258,054611810022,1385 HIGHLAND AVE 22B,Waterbury,1385 HIGHLAND AVE 22B Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354268,054611810023,1385 HIGHLAND AVE 23A,Waterbury,1385 HIGHLAND AVE 23A Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354278,054611810023,1385 HIGHLAND AVE 23B,Waterbury,1385 HIGHLAND AVE 23B Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354288,054611810024,1385 HIGHLAND AVE 24A,Waterbury,1385 HIGHLAND AVE 24A Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354298,054611810024,1385 HIGHLAND AVE 24B,Waterbury,1385 HIGHLAND AVE 24B Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354308,054611810003,1385 HIGHLAND AVE 3A,Waterbury,1385 HIGHLAND AVE 3A Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354318,054611810003,1385 HIGHLAND AVE 3B,Waterbury,1385 HIGHLAND AVE 3B Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354328,054611810004,1385 HIGHLAND AVE 4A,Waterbury,1385 HIGHLAND AVE 4A Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354338,054611810004,1385 HIGHLAND AVE 4B,Waterbury,1385 HIGHLAND AVE 4B Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354348,054611810005,1385 HIGHLAND AVE 5A,Waterbury,1385 HIGHLAND AVE 5A Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354358,054611810005,1385 HIGHLAND AVE 5B,Waterbury,1385 HIGHLAND AVE 5B Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354368,054611810006,1385 HIGHLAND AVE 6A,Waterbury,1385 HIGHLAND AVE 6A Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354378,054611810006,1385 HIGHLAND AVE 6B,Waterbury,1385 HIGHLAND AVE 6B Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354388,054611810007,1385 HIGHLAND AVE 7B,Waterbury,1385 HIGHLAND AVE 7B Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354398,054611810008,1385 HIGHLAND AVE 8A,Waterbury,1385 HIGHLAND AVE 8A Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354408,054611810008,1385 HIGHLAND AVE 8B,Waterbury,1385 HIGHLAND AVE 8B Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354418,054611810009,1385 HIGHLAND AVE 9A,Waterbury,1385 HIGHLAND AVE 9A Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354428,054611810009,1385 HIGHLAND AVE 9B,Waterbury,1385 HIGHLAND AVE 9B Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+354438,054611270009,1430 HIGHLAND AVE,Waterbury,1430 HIGHLAND AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+356628,007902390001,2670 NORTH MAIN ST,Waterbury,2670 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+357708,027400070001,21 WEST MAIN ST,Waterbury,21 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+358148,034502910048,575 SOUTH MAIN ST,Waterbury,575 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+358218,034502920032,605 SOUTH MAIN ST,Waterbury,605 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+358568,046305090061,196 EDGEWOOD AVE,Waterbury,196 EDGEWOOD AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+358748,,975 MAIN ST,Waterbury,975 MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+358758,,1192 MAIN ST,Waterbury,1192 MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+358768,,1219 MAIN ST,Waterbury,1219 MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+358778,,1230 MAIN ST,Waterbury,1230 MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+358858,000000000000,0 EAST MAIN ST,Waterbury,0 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+358938,029500760004,0 EAST MAIN ST,Waterbury,0 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+359138,027400150041,99 EAST MAIN ST,Waterbury,99 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+359168,027500150612,141 EAST MAIN ST,Waterbury,141 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+359178,027500150612,141 EAST MAIN ST,Waterbury,141 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+359208,029500760004,144 EAST MAIN ST,Waterbury,144 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+359238,027500150612,141 EAST MAIN ST,Waterbury,141 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+359278,000000000000,246 EAST MAIN ST,Waterbury,246 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+359298,000000000000,264 EAST MAIN ST,Waterbury,264 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+359308,029500710701,317 EAST MAIN ST,Waterbury,317 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+359318,029500710069,337 EAST MAIN ST,Waterbury,337 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+359328,029500710068,351 EAST MAIN ST,Waterbury,351 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+359368,029600720001,421 EAST MAIN ST,Waterbury,421 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+359408,029600930098,574 EAST MAIN ST,Waterbury,574 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+359418,029600930098,574 EAST MAIN ST,Waterbury,574 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+359428,029600930098,574 EAST MAIN ST,Waterbury,574 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+359438,029600930098,574 EAST MAIN ST,Waterbury,574 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+359458,029600910058,645 EAST MAIN ST,Waterbury,645 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+359468,029600910591,651 EAST MAIN ST,Waterbury,651 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+359478,029600930095,656 EAST MAIN ST,Waterbury,656 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+359488,029600910060,669 EAST MAIN ST,Waterbury,669 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+359498,029600930093,666 EAST MAIN ST,Waterbury,666 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+359508,029600930092,690 EAST MAIN ST,Waterbury,690 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+359528,029700930034,780 EAST MAIN ST,Waterbury,780 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+359548,029700930037,836 EAST MAIN ST,Waterbury,836 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+359558,029700940047,851 EAST MAIN ST,Waterbury,851 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+359578,,884 EAST MAIN ST,Waterbury,884 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+359598,,892 EAST MAIN ST,Waterbury,892 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+359618,032200940015,1057 EAST MAIN ST,Waterbury,1057 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+359628,032200940015,1057 EAST MAIN ST,Waterbury,1057 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+359638,032200930002,1086 EAST MAIN ST,Waterbury,1086 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+359648,032200940011,1093 EAST MAIN ST,Waterbury,1093 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+359658,032200930002,1086 EAST MAIN ST,Waterbury,1086 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+359668,032200930004,1118 EAST MAIN ST,Waterbury,1118 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+359678,032200930004,1118 EAST MAIN ST,Waterbury,1118 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+359688,032200940007,1131 EAST MAIN ST,Waterbury,1131 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+359698,03230094000A,1141 EAST MAIN ST,Waterbury,1141 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+359738,,1210 EAST MAIN ST,Waterbury,1210 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+359758,,1226 EAST MAIN ST,Waterbury,1226 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+359768,034800940011,1271 EAST MAIN ST,Waterbury,1271 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+359788,034801010025,1325 EAST MAIN ST,Waterbury,1325 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+359798,034801010029,1405 EAST MAIN ST,Waterbury,1405 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+359818,,1447 EAST MAIN ST,Waterbury,1447 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+359828,037201020005,1527 EAST MAIN ST,Waterbury,1527 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+359838,037201020005,1533 EAST MAIN ST,Waterbury,1533 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+359848,037301090117,1660 EAST MAIN ST,Waterbury,1660 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+359868,037301060085,1719 EAST MAIN ST,Waterbury,1719 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+359888,037301070050,1773 EAST MAIN ST,Waterbury,1773 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+359898,037301110085,1820 EAST MAIN ST,Waterbury,1820 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+359938,039701170077,2150 EAST MAIN ST,Waterbury,2150 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+359958,039701200651,2171 EAST MAIN ST,Waterbury,2171 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+359968,039701200651,2171 EAST MAIN ST *2221,Waterbury,2171 EAST MAIN ST *2221 Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+359978,039701200651,2171 EAST MAIN ST,Waterbury,2171 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+359988,039801170002,2309 EAST MAIN ST,Waterbury,2309 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+359998,039801340004,2457 EAST MAIN ST SVC.,Waterbury,2457 EAST MAIN ST SVC. Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+360048,037801430033,2927 EAST MAIN ST,Waterbury,2927 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+360058,037801490028,2999 EAST MAIN ST,Waterbury,2999 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+360068,037801490028,2999 EAST MAIN ST,Waterbury,2999 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+360088,037901533199,3199 EAST MAIN ST,Waterbury,3199 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+360118,037901530008,3269 EAST MAIN ST,Waterbury,3269 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+360128,037901530008,3269 EAST MAIN ST,Waterbury,3269 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+360138,037901530008,3269 EAST MAIN ST,Waterbury,3269 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+360148,040201550023,3396 EAST MAIN ST,Waterbury,3396 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+360158,040401560061,3580 EAST MAIN ST,Waterbury,3580 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+360168,040401560061,3580 EAST MAIN ST,Waterbury,3580 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+360178,040401560612,3600 EAST MAIN ST,Waterbury,3600 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+360188,027400140493,2 NORTH MAIN ST,Waterbury,2 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+360198,027400140047,32 NORTH MAIN ST,Waterbury,32 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+360208,027400140046,36 NORTH MAIN ST,Waterbury,36 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+360248,027400020016,103 NORTH MAIN ST,Waterbury,103 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+360258,027400020029,143 NORTH MAIN ST,Waterbury,143 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+360278,025501620231,245 NORTH MAIN ST,Waterbury,245 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+360288,025501620231,245 NORTH MAIN ST,Waterbury,245 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+360298,025501620231,245 NORTH MAIN ST,Waterbury,245 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+360308,025500850141,316 NORTH MAIN ST,Waterbury,316 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+360318,025500850141,326 NORTH MAIN ST,Waterbury,326 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+360328,025500850141,334 NORTH MAIN ST,Waterbury,334 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+360348,025501660148,486 NORTH MAIN ST,Waterbury,486 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+360378,023701660241,526 NORTH MAIN ST,Waterbury,526 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+360398,023701790007,675 NORTH MAIN ST,Waterbury,675 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+360408,023701790007,675 NORTH MAIN ST,Waterbury,675 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+360448,023701660024,730 NORTH MAIN ST,Waterbury,730 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+360478,021801660158,810 NORTH MAIN ST,Waterbury,810 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+360488,021801840063,807 NORTH MAIN ST,Waterbury,807 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+360498,021801800152,848 NORTH MAIN ST,Waterbury,848 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+360508,021801850087,899 - 901 NORTH MAIN ST,Waterbury,899 - 901 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+360518,021801900124,926 NORTH MAIN ST,Waterbury,926 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+360558,021801910109,1064 NORTH MAIN ST,Waterbury,1064 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+360578,020102120024,1125 NORTH MAIN ST,Waterbury,1125 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+360588,020102120022,1143 NORTH MAIN ST,Waterbury,1143 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+360608,018302090008,1389 NORTH MAIN ST,Waterbury,1389 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+360628,016602090004,1597 NORTH MAIN ST,Waterbury,1597 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+360638,014902090001,1711 NORTH MAIN ST,Waterbury,1711 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+360648,014902090001,1711 NORTH MAIN ST,Waterbury,1711 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+360658,014902180010,1800 NORTH MAIN ST,Waterbury,1800 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+360668,014902090041,1805 NORTH MAIN ST,Waterbury,1805 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+360678,013402200020,1926 NORTH MAIN ST,Waterbury,1926 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+360718,,2016 NORTH MAIN ST,Waterbury,2016 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+360728,013402200014,2046 NORTH MAIN- CAPPED ACCT S,Waterbury,2046 NORTH MAIN- CAPPED ACCT S Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+360758,006902530001,2817 NORTH MAIN ST,Waterbury,2817 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+360768,006002540003,2851 NORTH MAIN ST,Waterbury,2851 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+360778,005102550006,2991 NORTH MAIN ST,Waterbury,2991 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+360788,005102560016,3000 NORTH MAIN ST,Waterbury,3000 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+360798,004202570004,3069 NORTH MAIN ST,Waterbury,3069 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+360808,004202570007,3125 NORTH MAIN ST,Waterbury,3125 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+360848,039203000001,952 SOUTH MAIN ST,Waterbury,952 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+360858,036903100002,0 SOUTH MAIN ST,Waterbury,0 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+360868,036903100002,0 SOUTH MAIN ST,Waterbury,0 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+360898,029400120099,23 SOUTH MAIN ST,Waterbury,23 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+360988,031902750015,309 SOUTH MAIN ST,Waterbury,309 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+361008,034502790001,464 SOUTH MAIN ST,Waterbury,464 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+361018,034502790003,490 SOUTH MAIN ST,Waterbury,490 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+361078,034502810011,606 - 610 SOUTH MAIN ST,Waterbury,606 - 610 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+361088,034502810011,606 SOUTH MAIN ST,Waterbury,606 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+361108,034502810012,624 SOUTH MAIN ST,Waterbury,624 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+361118,036902930004,675 SOUTH MAIN ST,Waterbury,675 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+361138,036903100002,698 SOUTH MAIN ST,Waterbury,698 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+361148,036903100002,698 SOUTH MAIN ST,Waterbury,698 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+361158,036902930005,691 SOUTH MAIN ST,Waterbury,691 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+361168,036902930007,709 SOUTH MAIN ST,Waterbury,709 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+361178,036902930009,731 SOUTH MAIN ST,Waterbury,731 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+361188,036903100002,736 SOUTH MAIN ST,Waterbury,736 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+361198,036902940020,777 SOUTH MAIN ST,Waterbury,777 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+361228,036902820001,848 SOUTH MAIN ST,Waterbury,848 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+361248,039203000001,952 SOUTH MAIN ST,Waterbury,952 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+361258,039203000001,952 SOUTH MAIN ST,Waterbury,952 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+361268,039203010028,911 SOUTH MAIN ST,Waterbury,911 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+361308,039203010018,1011 SOUTH MAIN ST,Waterbury,1011 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+361318,039203010017,1015 SOUTH MAIN ST,Waterbury,1015 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+361408,041503000127,1106 SOUTH MAIN ST,Waterbury,1106 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+361418,041503000127,1106 SOUTH MAIN ST,Waterbury,1106 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+361428,041503000127,1106 SOUTH MAIN ST,Waterbury,1106 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+361438,041503070051,1099 SOUTH MAIN ST,Waterbury,1099 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+361448,041503000123,1200 SOUTH MAIN ST,Waterbury,1200 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+361468,041503000120,1302 SOUTH MAIN ST,Waterbury,1302 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+361478,043803150011,1311 SOUTH MAIN ST,Waterbury,1311 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+361488,043803210045,1379 SOUTH MAIN ST,Waterbury,1379 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+361498,043803210047,1443 SOUTH MAIN ST,Waterbury,1443 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+361508,046103210008,1565 SOUTH MAIN ST,Waterbury,1565 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+361518,046103210009,1577 SOUTH MAIN ST,Waterbury,1577 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+361538,048203321827,1827 SOUTH MAIN ST,Waterbury,1827 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+361548,048203321845,1845 SOUTH MAIN ST,Waterbury,1845 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+361558,048203321855,1855 SOUTH MAIN ST,Waterbury,1855 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+361568,048203321863,1863 SOUTH MAIN ST,Waterbury,1863 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+361578,050203320011,1975 SOUTH MAIN ST,Waterbury,1975 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+361588,050203320010,1999 SOUTH MAIN ST,Waterbury,1999 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+361598,050203320006,2091 SOUTH MAIN ST,Waterbury,2091 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+361618,055903470002,2620 SOUTH MAIN ST,Waterbury,2620 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+361628,055903470003,2636 SOUTH MAIN ST OFFIC,Waterbury,2636 SOUTH MAIN ST OFFIC Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+361688,027200220001,751 WEST MAIN ST,Waterbury,751 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+361698,027200220001,751 WEST MAIN ST,Waterbury,751 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+361708,027400020020,2 WEST MAIN ST,Waterbury,2 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+361728,027400070061,41 WEST MAIN ST,Waterbury,41 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+361778,027400040006,144 WEST MAIN ST,Waterbury,144 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+361818,027300170381,251 WEST MAIN ST,Waterbury,251 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+361828,027300170381,263 WEST MAIN ST,Waterbury,263 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+361838,027300230058,280 WEST MAIN ST,Waterbury,280 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+361848,027300230058,280 WEST MAIN ST,Waterbury,280 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+361858,027300230060,298 WEST MAIN ST,Waterbury,298 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+361868,027300230060,298 WEST MAIN ST,Waterbury,298 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+361888,027300230060,314 WEST MAIN ST,Waterbury,314 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+361908,025300540073,380 WEST MAIN ST,Waterbury,380 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+361948,025300540074,398 WEST MAIN ST,Waterbury,398 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+361968,025300540075,414 WEST MAIN ST,Waterbury,414 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+361988,025300540075,414 WEST MAIN ST,Waterbury,414 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+362008,,420 WEST MAIN ST,Waterbury,420 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+362028,025300560097,470 WEST MAIN ST,Waterbury,470 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+362038,025300560096,478 WEST MAIN ST,Waterbury,478 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+362048,025300570093,506 WEST MAIN ST,Waterbury,506 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+362068,,584 WEST MAIN ST,Waterbury,584 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+362098,027200220023,649 WEST MAIN ST,Waterbury,649 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+362108,027200220023,649 WEST MAIN ST,Waterbury,649 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+362118,027200220023,649 WEST MAIN ST,Waterbury,649 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+362128,025200240001,770 WEST MAIN ST,Waterbury,770 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+362138,027200240011,744 WEST MAIN ST,Waterbury,744 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+362148,027200220001,771 WEST MAIN ST,Waterbury,771 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+362188,027100250088,990 WEST MAIN ST,Waterbury,990 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+362228,027100320038,1113 WEST MAIN ST,Waterbury,1113 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+362258,029000420091,1198 WEST MAIN ST,Waterbury,1198 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+362278,029000420093,1243 WEST MAIN ST,Waterbury,1243 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+362298,031500461312,1312 WEST MAIN ST,Waterbury,1312 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+362308,031500470001,1389 WEST MAIN ST,Waterbury,1389 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+362318,031500470001,1389 WEST MAIN ST,Waterbury,1389 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+362328,031500470001,1389 WEST MAIN ST,Waterbury,1389 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+362918,027300180031,389 MEADOW ST,Waterbury,389 MEADOW ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+362988,027300180031,389 MEADOW ST,Waterbury,389 MEADOW ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+364298,027300230060,298 WEST MAIN ST,Waterbury,298 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+365088,025500850181,262 NORTH MAIN ST,Waterbury,262 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+365338,027705830131,131 OAK ST,Waterbury,131 OAK ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+365348,027705820134,130 - 132 OAK ST,Waterbury,130 - 132 OAK ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+365358,027705820128,164 OAK ST,Waterbury,164 OAK ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+365368,027705821241,182 OAK ST,Waterbury,182 OAK ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+365388,029700960091,238 OAK ST,Waterbury,238 OAK ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+365398,029700960092,242 OAK ST,Waterbury,242 OAK ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+365968,031500461312,1312 WEST MAIN ST 102,Waterbury,1312 WEST MAIN ST 102 Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+366058,023601760175,14 PEARL ST,Waterbury,14 PEARL ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+366758,039601040092,0 PLANK RD,Waterbury,0 PLANK RD Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+366768,039601040091,102 PLANK RD,Waterbury,102 PLANK RD Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+368688,029000410067,1250 WEST MAIN ST,Waterbury,1250 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+375398,055903470001,2670 SOUTH MAIN ST,Waterbury,2670 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+378008,034903500711,75 WOODWARD AVE,Waterbury,75 WOODWARD AVE Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+378668,016602090003,1559 NORTH MAIN ST,Waterbury,1559 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+378748,053211270041,1370 HIGHLAND AVE,Waterbury,1370 HIGHLAND AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+378778,027400070001,21 WEST MAIN ST,Waterbury,21 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+378838,000000000000,0 MAIN ST,Waterbury,0 MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+378958,027400140493,2 NORTH MAIN ST,Waterbury,2 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+378968,027400140493,2 NORTH MAIN ST,Waterbury,2 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+379008,025300230107,334 WEST MAIN ST,Waterbury,334 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+379698,029500130003,122 EAST MAIN ST,Waterbury,122 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+379738,025300560097,466 WEST MAIN ST,Waterbury,466 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+379748,025300560097,466 WEST MAIN ST,Waterbury,466 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+380158,037201040003,1 PLANK RD,Waterbury,1 PLANK RD Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+380558,039801340004,2457 EAST MAIN ST 2,Waterbury,2457 EAST MAIN ST 2 Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+380878,037901370018,3196 EAST MAIN ST,Waterbury,3196 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+380888,037901370018,3196 EAST MAIN ST,Waterbury,3196 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+380908,029600890016,507 EAST MAIN ST,Waterbury,507 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+380978,031500461320,1320 WEST MAIN ST,Waterbury,1320 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+381138,031500461320,1320 WEST MAIN ST 2,Waterbury,1320 WEST MAIN ST 2 Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+381428,016308210073,0 GREENWOOD AVE,Waterbury,0 GREENWOOD AVE Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+381668,039203010025,937 SOUTH MAIN ST,Waterbury,937 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+381918,027400030010,130 WEST MAIN ST,Waterbury,130 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+381948,039801340004,2457 EAST MAIN ST 3,Waterbury,2457 EAST MAIN ST 3 Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+382338,039203010024,945 SOUTH MAIN ST,Waterbury,945 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+382348,039203010024,945 SOUTH MAIN ST,Waterbury,945 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+383368,039801340004,2457 EAST MAIN ST 4,Waterbury,2457 EAST MAIN ST 4 Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+383738,054611810007,1385 HIGHLAND AVE 7A,Waterbury,1385 HIGHLAND AVE 7A Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+384188,029000430075,1155 WEST MAIN ST,Waterbury,1155 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+386388,035304590491,160 MIDLAND RD,Waterbury,160 MIDLAND RD Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+386628,011802200032,2200 NORTH MAIN ST,Waterbury,2200 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+387188,046305080544,67 LOWLAND ST,Waterbury,67 LOWLAND ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+387798,032200940013,1073 EAST MAIN ST,Waterbury,1073 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+388088,050203330043,2122 SOUTH MAIN ST,Waterbury,2122 SOUTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+389548,031500420019,1249 WEST MAIN ST A,Waterbury,1249 WEST MAIN ST A Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+390438,037401080034,1929 EAST MAIN ST,Waterbury,1929 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+390448,037401080034,1929 EAST MAIN ST SERV,Waterbury,1929 EAST MAIN ST SERV Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+391718,055811770102,37 BRISTOL ST,Waterbury,37 BRISTOL ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+392338,040401560611,3612 EAST MAIN ST,Waterbury,3612 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+392348,040401560061,3580 EAST MAIN ST,Waterbury,3580 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+392358,040401560061,3580 EAST MAIN ST,Waterbury,3580 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+392548,034801010030,1417 EAST MAIN ST,Waterbury,1417 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+392728,040401560611,3612 EAST MAIN ST,Waterbury,3612 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+392738,040401560611,3612 EAST MAIN ST,Waterbury,3612 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+392878,040401560611,3612 EAST MAIN ST,Waterbury,3612 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+392888,006902390009,2780 NORTH MAIN ST,Waterbury,2780 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+393258,,0 PLANK RD POOL,Waterbury,0 PLANK RD POOL Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+393328,031500420016,1253 -1279 WEST MAIN ST,Waterbury,1253 -1279 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+393408,031500420016,1253 WEST MAIN ST SVC,Waterbury,1253 WEST MAIN ST SVC Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+394048,038201540002,3821 EAST MAIN ST,Waterbury,3821 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+394238,046305080547,54 BARDEN ST,Waterbury,54 BARDEN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+394968,040401560008,3670 EAST MAIN ST,Waterbury,3670 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+395038,037401200039,1981 EAST MAIN ST,Waterbury,1981 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+395048,037401200039,1981 EAST MAIN ST,Waterbury,1981 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+395058,037401200039,1981 EAST MAIN ST,Waterbury,1981 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+395088,040401560008,3670 EAST MAIN ST,Waterbury,3670 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+395598,,1760 MAIN ST,Waterbury,1760 MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+395618,,574 MAIN ST,Waterbury,574 MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+395628,,1230 MAIN ST,Waterbury,1230 MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+395678,034801010029,1405 EAST MAIN ST,Waterbury,1405 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+396028,021801850086,885 NORTH MAIN ST #01,Waterbury,885 NORTH MAIN ST #01 Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+396038,021801850086,885 NORTH MAIN ST #02,Waterbury,885 NORTH MAIN ST #02 Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+396048,021801850086,885 NORTH MAIN ST #03,Waterbury,885 NORTH MAIN ST #03 Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+396058,021801850086,885 NORTH MAIN ST #04,Waterbury,885 NORTH MAIN ST #04 Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+396068,021801850086,885 NORTH MAIN ST #05,Waterbury,885 NORTH MAIN ST #05 Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+396078,021801850086,885 NORTH MAIN ST #06,Waterbury,885 NORTH MAIN ST #06 Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+396088,021801850086,885 NORTH MAIN ST #07,Waterbury,885 NORTH MAIN ST #07 Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+396098,021801850086,885 NORTH MAIN ST #08,Waterbury,885 NORTH MAIN ST #08 Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+396108,021801850086,885 NORTH MAIN ST #09,Waterbury,885 NORTH MAIN ST #09 Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+396118,021801850086,885 NORTH MAIN ST #10,Waterbury,885 NORTH MAIN ST #10 Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+396138,029400130139,110 EAST MAIN ST,Waterbury,110 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+400000,040401560002,3528 EAST MAIN ST,Waterbury,3528 EAST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+400003,041210370020,37 ROSEMOUNT AVE,Waterbury,37 ROSEMOUNT AVE Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+400010,029000410067,1250 WEST MAIN ST,Waterbury,1250 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+400034,023701660024,730 NORTH MAIN ST,Waterbury,730 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+400064,034801000038,0 PLANK RD,Waterbury,0 PLANK RD Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+400083,023701660024,730 NORTH MAIN ST,Waterbury,730 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+400112,038201540011 0390100002,3801 EAST MAIN ST 2,Waterbury,3801 EAST MAIN ST 2 Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+400119,027400040006,100 WEST MAIN ST,Waterbury,100 WEST MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+400120,020002110064,1075 NORTH MAIN ST,Waterbury,1075 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+400143,023701660024,730 NORTH MAIN ST,Waterbury,730 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+400144,023701660024,730 NORTH MAIN ST,Waterbury,730 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+400162,025501650091,449 NORTH MAIN ST,Waterbury,449 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+400236,,0 PLANK RD,Waterbury,0 PLANK RD Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+400244,031500420019,1249 WEST MAIN ST B,Waterbury,1249 WEST MAIN ST B Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+400247,016408250023,108 GREENWOOD AVE,Waterbury,108 GREENWOOD AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+400258,025705832822A,109 OAK ST A,Waterbury,109 OAK ST A Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+400259,025705832822B,109 OAK ST B,Waterbury,109 OAK ST B Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+41508,011802200027,2262 NORTH MAIN ST,Waterbury,2262 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+41518,011802200028,2250 NORTH MAIN ST,Waterbury,2250 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+41528,011802200029,2238 NORTH MAIN ST,Waterbury,2238 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+41538,011802200030,2226 NORTH MAIN ST,Waterbury,2226 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+41548,011802200031,2214 NORTH MAIN ST,Waterbury,2214 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+41568,011802200033,2190 NORTH MAIN ST,Waterbury,2190 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+41578,011802200034,2160 NORTH MAIN ST,Waterbury,2160 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+41648,011802230013,2211 NORTH MAIN ST,Waterbury,2211 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+41658,011802230014,2225 NORTH MAIN ST,Waterbury,2225 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+41678,011802230016,2259 NORTH MAIN ST,Waterbury,2259 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+41688,011802230017,2279 NORTH MAIN ST,Waterbury,2279 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+41828,011802390019,2356 NORTH MAIN ST,Waterbury,2356 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+41838,011802390020,2344 NORTH MAIN ST,Waterbury,2344 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+41848,011802390021,2332 NORTH MAIN ST,Waterbury,2332 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+41858,011802390022,2320 NORTH MAIN ST,Waterbury,2320 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+47798,013008660013,22 WAVERLY ST,Waterbury,22 WAVERLY ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+47808,013008660014,28 WAVERLY ST,Waterbury,28 WAVERLY ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+47818,013008660015,34 WAVERLY ST,Waterbury,34 WAVERLY ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+47828,013008660016,40 WAVERLY ST,Waterbury,40 WAVERLY ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+47938,013008880017,35 WAVERLY ST,Waterbury,35 WAVERLY ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+47948,013008880018,21 WAVERLY ST,Waterbury,21 WAVERLY ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+48028,013008890033,438 COLUMBIA BLVD,Waterbury,438 COLUMBIA BLVD Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+48048,013008890035,71 MELBOURNE TERR,Waterbury,71 MELBOURNE TERR Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+48108,013008890321,448 COLUMBIA BLVD,Waterbury,448 COLUMBIA BLVD Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+48148,013008890342,428 COLUMBIA BLVD,Waterbury,428 COLUMBIA BLVD Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+48398,013008910028,452 COLUMBIA BLVD,Waterbury,452 COLUMBIA BLVD Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+48418,013008910030,91 MELBOURNE TERR,Waterbury,91 MELBOURNE TERR Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+48478,013008920070,115 WAVERLY ST,Waterbury,115 WAVERLY ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+48808,013108920001,119 WAVERLY ST,Waterbury,119 WAVERLY ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+48818,013108920002,125 WAVERLY ST,Waterbury,125 WAVERLY ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+48828,013108920003,59 DWIGHT ST,Waterbury,59 DWIGHT ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+48838,013108930004,39 DWIGHT ST,Waterbury,39 DWIGHT ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+48858,013108930006,60 GRACE AVE,Waterbury,60 GRACE AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+48868,013108930007,56 GRACE AVE,Waterbury,56 GRACE AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+4918,003402580072,3255 NORTH MAIN ST,Waterbury,3255 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+51318,013302200089,2144 NORTH MAIN ST,Waterbury,2144 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+51328,013302200090,2120 NORTH MAIN ST,Waterbury,2120 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+51338,013302200091,2108 NORTH MAIN ST,Waterbury,2108 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+51348,013302200092,2090 NORTH MAIN ST,Waterbury,2090 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+51358,013302200093,2084 NORTH MAIN ST,Waterbury,2084 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+51418,013302220087,2073 NORTH MAIN ST,Waterbury,2073 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+52388,013402200014,2046 NORTH MAIN ST,Waterbury,2046 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+52408,013402200020,1926 NORTH MAIN ST,Waterbury,1926 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+63578,014902090041,1805 NORTH MAIN ST,Waterbury,1805 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+6398,004202560013,3078 NORTH MAIN ST,Waterbury,3078 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+64018,014902180008,1804 NORTH MAIN ST,Waterbury,1804 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+64078,014902200006,1906 NORTH MAIN ST,Waterbury,1906 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+6448,004202570005,3077 NORTH MAIN ST,Waterbury,3077 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+6458,004202570006,3087 NORTH MAIN ST,Waterbury,3087 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+6568,004202570071,3097 NORTH MAIN ST,Waterbury,3097 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+6578,004202570072,3105 NORTH MAIN ST,Waterbury,3105 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+6618,004302560006,3132 NORTH MAIN ST,Waterbury,3132 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+6658,004302560010,3180 NORTH MAIN ST,Waterbury,3180 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+6668,004302560011,3206 NORTH MAIN ST,Waterbury,3206 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+6998,004302570002,3177 NORTH MAIN ST,Waterbury,3177 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+7008,004302570003,3163 NORTH MAIN ST,Waterbury,3163 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+7018,004302570004,3155 NORTH MAIN ST,Waterbury,3155 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+7028,004302570021,3167 NORTH MAIN ST,Waterbury,3167 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+7038,004302580021,3231 NORTH MAIN ST,Waterbury,3231 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+7068,004302580024,3211 NORTH MAIN ST,Waterbury,3211 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+73288,016408210001,71 GREENWOOD AVE,Waterbury,71 GREENWOOD AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+73318,016408220004,97 GREENWOOD AVE,Waterbury,97 GREENWOOD AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+73328,016408220005,99 GREENWOOD AVE,Waterbury,99 GREENWOOD AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+73338,016408230006,117 GREENWOOD AVE,Waterbury,117 GREENWOOD AVE Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+73348,016408230007,125 GREENWOOD AVE,Waterbury,125 GREENWOOD AVE Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+73358,016408230008,129 GREENWOOD AVE,Waterbury,129 GREENWOOD AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+73368,016408230009,135 GREENWOOD AVE,Waterbury,135 GREENWOOD AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+73378,016408230010,141 GREENWOOD AVE,Waterbury,141 GREENWOOD AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+73418,016408240014,163 GREENWOOD AVE,Waterbury,163 GREENWOOD AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+73428,016408240015,171 GREENWOOD AVE,Waterbury,171 GREENWOOD AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+73438,016408240016,175 GREENWOOD AVE,Waterbury,175 GREENWOOD AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+73448,016408240017,179 GREENWOOD AVE,Waterbury,179 GREENWOOD AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+73498,016408250022,104 GREENWOOD AVE,Waterbury,104 GREENWOOD AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+73508,016308210073,0 GREENWOOD AVE,Waterbury,0 GREENWOOD AVE Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+73518,016408250024,114 GREENWOOD AVE,Waterbury,114 GREENWOOD AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+73528,016408250025,120 GREENWOOD AVE,Waterbury,120 GREENWOOD AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+73538,016408250027,128 GREENWOOD AVE,Waterbury,128 GREENWOOD AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+73548,016408250028,140 GREENWOOD AVE,Waterbury,140 GREENWOOD AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+73558,016408250029,150 GREENWOOD AVE,Waterbury,150 GREENWOOD AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+74198,016502090027,291 CITIZENS AVE,Waterbury,291 CITIZENS AVE Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+75048,016601990078,1526 NORTH MAIN ST,Waterbury,1526 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+75428,016602090005,1607 NORTH MAIN ST,Waterbury,1607 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+75438,016602090006,1617 NORTH MAIN ST,Waterbury,1617 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+75448,016602090007,1627 NORTH MAIN ST,Waterbury,1627 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+75618,016602140067,1560 NORTH MAIN ST,Waterbury,1560 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+75628,016602140068,1558 NORTH MAIN ST,Waterbury,1558 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+75828,016602150046,1626 NORTH MAIN ST,Waterbury,1626 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+76308,016602180013,1696 NORTH MAIN ST,Waterbury,1696 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+76318,016602180014,1694 NORTH MAIN ST,Waterbury,1694 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+8308,005102550004,2969 NORTH MAIN ST,Waterbury,2969 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+8318,005102550005,2987 NORTH MAIN ST,Waterbury,2987 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+8328,005102550007,2995 NORTH MAIN ST,Waterbury,2995 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+8348,005102550008,3013 NORTH MAIN ST,Waterbury,3013 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+8358,005102550009,3023 NORTH MAIN ST,Waterbury,3023 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+8368,005102550010,3029 NORTH MAIN ST,Waterbury,3029 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+8378,005102550011,3039 NORTH MAIN ST,Waterbury,3039 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+8438,005102550081,3015 NORTH MAIN ST,Waterbury,3015 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+88858,018202070075,0 JUNIOR AVE,Waterbury,0 JUNIOR AVE Waterbury Connecticut,Connecticut,Lead,O,CT1510011,Waterbury Water Department
+90068,018301990017,1480 NORTH MAIN ST,Waterbury,1480 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+90078,018301990018,1448 NORTH MAIN ST,Waterbury,1448 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+90088,018301990019,1440 NORTH MAIN ST,Waterbury,1440 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+90098,018301990020,1430 NORTH MAIN ST,Waterbury,1430 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+90108,018301990021,1420 NORTH MAIN ST,Waterbury,1420 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+90178,018301990028,1348 NORTH MAIN ST,Waterbury,1348 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+90198,018301990030,1318 NORTH MAIN ST,Waterbury,1318 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+90258,018302090005,1309 NORTH MAIN ST,Waterbury,1309 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+90268,018302090006,1351 NORTH MAIN ST,Waterbury,1351 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+90278,018302090007,1363 NORTH MAIN ST,Waterbury,1363 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+90288,018302090008,1389 NORTH MAIN ST,Waterbury,1389 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+90298,018302090009,1407 NORTH MAIN ST,Waterbury,1407 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,MF,CT1510011,Waterbury Water Department
+90308,018302090010,1425 NORTH MAIN ST,Waterbury,1425 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+90318,018302090011,1439 NORTH MAIN ST,Waterbury,1439 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
+90338,018302090013,1485 NORTH MAIN ST,Waterbury,1485 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+90368,018302090071,1383 NORTH MAIN ST,Waterbury,1383 NORTH MAIN ST Waterbury Connecticut,Connecticut,Lead,NONRES,CT1510011,Waterbury Water Department
+9948,005509830009,188 DOWNES ST,Waterbury,188 DOWNES ST Waterbury Connecticut,Connecticut,Lead,SF,CT1510011,Waterbury Water Department
