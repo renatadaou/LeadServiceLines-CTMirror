@@ -123,11 +123,17 @@ A few notes on some of the sheets:
 I mapped the water systems on Flourish. Here’s the list of water systems with most lead lines:
 
 [Aquarion Water Co of CT — Main System](https://public.flourish.studio/visualisation/23096431/)
+
 Waterbury Water Department
+
 [Windham Water Works](https://public.flourish.studio/visualisation/23097381/)
+
 New London Dept. of Public Utilities
+
 Aquarion Water Co of CT — Greenwich
+
 Middletown Water Department
+
 Meriden Water Division - This one didn’t actually have the most lead lines. However, it was the water system with most “lead status unknown” so it was also interesting to point that out. 
 
 
