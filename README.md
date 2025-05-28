@@ -110,11 +110,23 @@ A few notes on some of the sheets:
    
 ## Step 6 -  Mapping the service lines
 
-Aquarion Water Co of CT — Main System
+1) Filtered out the spreadsheets to show only the lines that contained lead. From there I filtered the spreadsheet to show only the system of interest.
+
+2) When I got the new sheet, I deleted some columns that weren’t as useful for mapping purposes, and kept just the ones I would use for the graph like the type of building and the location ids. I also created an extra column that would contain the full address with street name and number, town and state to help with geocoding. This column is called “merged column”.
+
+3) Saved the spreadsheets as cvs to make sure they would read and geocode properly.
+
+4) After that, I standardized capitalization and created a dictionary that would standardize the building type names and descriptions.
+
+5) Some sheets like xyz already had the latitude and longitude on the “location identifier” column so I didn’t have to geocode. I just created extra columns that would have the latitude and longitude separately. On the sheets that I had to geocode, some of the addresses didn’t fully geocode or didn’t geocode properly. I had to manually input those. 
+
+I mapped the water systems on Flourish. Here’s the list of water systems with most lead lines:
+
+[Aquarion Water Co of CT — Main System](https://public.flourish.studio/visualisation/23096431/)
 
 Waterbury Water Department
 
-Windham Water Works
+[Windham Water Works](https://public.flourish.studio/visualisation/23097381/)
 
 New London Dept. of Public Utilities
 
@@ -122,7 +134,9 @@ Aquarion Water Co of CT — Greenwich
 
 Middletown Water Department
 
-Meriden Water Division
+Meriden Water Division - This one didn’t actually have the most lead lines. However, it was the water system with most “lead status unknown” so it was also interesting to point that out. 
+
+
 
 
 
