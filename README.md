@@ -124,17 +124,18 @@ I mapped the water systems on Flourish. Here’s the list of water systems with 
 
 [Aquarion Water Co of CT — Main System](https://public.flourish.studio/visualisation/23096431/)
 
-Waterbury Water Department
+[Waterbury Water Department](https://public.flourish.studio/visualisation/23142939/)
 
 [Windham Water Works](https://public.flourish.studio/visualisation/23097381/)
 
-New London Dept. of Public Utilities
+[New London Dept. of Public Utilities](https://public.flourish.studio/visualisation/23166522/)
 
 Aquarion Water Co of CT — Greenwich
 
 Middletown Water Department
 
 Meriden Water Division - This one didn’t actually have the most lead lines. However, it was the water system with most “lead status unknown” so it was also interesting to point that out. 
+
 
 
 
