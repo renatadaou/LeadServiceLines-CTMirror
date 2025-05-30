@@ -1,6 +1,5 @@
 # Lead Service Lines - CTMirror
 
-Note: Used ChatGPT and Claude to clean and improve code 
 
 ## Step 1 - Putting the sheets together 
 
@@ -135,6 +134,9 @@ Aquarion Water Co of CT — Greenwich
 Middletown Water Department
 
 Meriden Water Division - This one didn’t actually have the most lead lines. However, it was the water system with most “lead status unknown” so it was also interesting to point that out. 
+
+### Note
+Used ChatGPT and Claude to clean and improve code
 
 
 
