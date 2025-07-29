@@ -107,9 +107,11 @@ A few notes on some of the sheets:
 
 4) If there are duplicates, it builds a small summary table (metrics & values) and writes it to the “Summary” sheet. The code marks each original row as duplicate vs. unique and keeps all unique rows plus the first occurrence from each duplicate group; writes that combined set to the deduplicated-file.
    
+5) `merged_deduplicated` file has 784,959 total lines
+   
 ## Step 6 -  Mapping the service lines
 
-1) Filtered out the spreadsheets to show only the lines that contained lead. From there I filtered the spreadsheet to show only the system of interest.
+1) Filtered out the spreadsheets to show only the lines that contained lead. From there I filtered the spreadsheet to show only the system of interest. `all-lead` shows 7,988 lead lines.
 
 2) When I got the new sheet, I deleted some columns that weren’t as useful for mapping purposes, and kept just the ones I would use for the graph like the type of building and the location ids. I also created an extra column that would contain the full address with street name and number, town and state to help with geocoding. This column is called “merged column”.
 
