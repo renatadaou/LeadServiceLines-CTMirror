@@ -1,7 +1,9 @@
 # Lead Service Lines - CTMirror
 
 [Full story](https://ctmirror.org/2025/07/27/ct-lead-service-line-water-pipes/)
+
 [Explainer](https://ctmirror.org/2025/07/28/ct-lead-service-lines-what-to-know/)
+
 [Database](https://ctmirror.org/2025/07/28/ct-lead-pipes-address-lookup/)
 
 ## Step 1 - Putting the sheets together 
