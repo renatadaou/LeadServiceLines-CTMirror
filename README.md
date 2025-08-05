@@ -6,6 +6,8 @@
 
 [Database](https://ctmirror.org/2025/07/28/ct-lead-pipes-address-lookup/)
 
+[En Español](https://ctmirror.org/2025/07/30/ct-tuberias-de-plomo-agua/)
+
 ## Step 1 - Putting the sheets together 
 
 1) In the folder called `all_files`, we can see the raw files that were obtained by FOIA requests by our investigative reporter Andrew Brown. There are a total of 701 files.
